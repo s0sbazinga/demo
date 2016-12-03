@@ -1,0 +1,2657 @@
+10240001	D002375	Catalepsy	1
+D011596	Psychomotor Disorders
+49159	D006212	Hallucinations	1
+D010465	Perception
+10625040	null	St. John's Pleasant Valley Hospital	1
+D006748	Hospital Departments
+18456598	null	SB-205,384	2
+D014151	Anti-Anxiety Agents
+D011963	Receptors, GABA-A
+38017711	null	Central Maine Medical Center	1
+D006748	Hospital Departments
+9084971	null	Alberta Hospital Edmonton	1
+D011570	Psychiatry
+43474992	null	Jefferson Hospital for Neuroscience	1
+D006748	Hospital Departments
+24363060	null	Fibrinogenolysis	1
+D004194	Disease
+1425463	D064747	Lansoprazole	1
+D054328	Proton Pump Inhibitors
+23076926	null	Cozen's test	1
+D010808	Physical Examination
+5532341	D005418	Flavodoxin	1
+D000907	Antibodies, Bacterial
+5865546	null	Pholcodine	1
+D004350	Drug Residues
+7921743	null	Pipamperone	1
+D014150	Antipsychotic Agents
+20073144	null	Immanuel Medical Center	1
+D006748	Hospital Departments
+13967449	null	Oxilorphan	1
+D000701	Analgesics, Opioid
+3940443	null	Distichia	1
+D005140	Eyelashes
+4423772	D002207	Capreomycin	1
+D010461	Peptones
+6717546	null	Prednylidene	1
+D005938	Glucocorticoids
+14049387	null	3-Allylfentanyl	1
+D000701	Analgesics, Opioid
+2711660	null	Azelaic acid	1
+D009930	Organic Chemicals
+6684786	null	Plantar arch	1
+D001163	Arteriovenous Anastomosis
+5390452	null	Posterior ulnar recurrent artery	1
+D001158	Arteries
+5390454	null	Anterior ulnar recurrent artery	1
+D001158	Arteries
+4522106	D011318	Prilocaine	1
+D000779	Anesthetics, Local
+14794876	D053456	Caspase 14	1
+D001051	Apoenzymes
+12543341	null	Rokitamycin	1
+D018942	Macrolides
+311440	D042361	Mammary Glands, Human	1
+D014781	Viscera
+4022296	null	Nuchal ligament	1
+D008022	Ligaments
+14188699	D044302	Receptor, Serotonin, 5-HT1B	1
+D010940	Plant Proteins
+16554	null	John Sealy Hospital	1
+D006748	Hospital Departments
+3301549	D001843	Bone Cements	1
+D000269	Adhesives
+6717614	null	Deflazacort	1
+D005938	Glucocorticoids
+14580424	null	Transurethral biopsy	1
+D001706	Biopsy
+21381309	null	Marshall syndrome	1
+D030342	Genetic Diseases, Inborn
+4423871	null	Paraphrenia	1
+D001523	Mental Disorders
+31834305	null	Buccal bifurcation cyst	1
+D007249	Inflammation
+12665027	null	Centegra Hospital - McHenry	1
+D006748	Hospital Departments
+540869	D001556	Lindane	2
+D009498	Neurotoxins
+D052244	Endocrine Disruptors
+2441429	null	Fungal pneumonia	1
+D007239	Infection
+401630	null	H1 antagonist	1
+D006633	Histamine Antagonists
+1679584	D005001	Ethionine	1
+D000963	Antimetabolites
+6717667	null	Meprednisone	1
+D005938	Glucocorticoids
+21345662	null	Prostanozol	1
+D045930	Anabolic Agents
+3113211	null	2,2,2-Trichloroethanol	1
+D009930	Organic Chemicals
+8143100	D051195	Toll-Like Receptor 2	1
+D010940	Plant Proteins
+5472514	D023502	Chlamydia muridarum	1
+D042541	Intracellular Space
+40034347	null	Anthracimycin	1
+D048630	Polyketide Synthases
+24314125	null	Romidepsin	1
+D001688	Biological Products
+11477262	null	Fruit allergy	1
+D005512	Food Hypersensitivity
+4440354	null	Eptifibatide	1
+D006844	Hydrocarbons, Cyclic
+336168	D001404	Babesiosis	1
+D016779	Malaria, Cerebral
+18373342	D003548	Cysteinyldopa	1
+D017983	Receptors, Catecholamine
+16859457	D034021	Auxilins	1
+D001051	Apoenzymes
+6717776	null	Fluocortin	1
+D000305	Adrenal Cortex Hormones
+27361620	D009255	Nafenopin	1
+D000960	Hypolipidemic Agents
+3973461	null	Coniferyl alcohol	1
+D009930	Organic Chemicals
+3875159	null	Royal Edinburgh Hospital	1
+D006778	Hospitals, Psychiatric
+13721948	null	Valofane	1
+D006993	Hypnotics and Sedatives
+12149089	null	Gantenerumab	1
+D000911	Antibodies, Monoclonal
+1630566	null	Hornsby Ku-ring-gai Hospital	1
+D006748	Hospital Departments
+15278439	null	Thomas Jefferson University Hospital	1
+D006748	Hospital Departments
+6717805	null	Fluperolone acetate	1
+D000305	Adrenal Cortex Hormones
+20291956	null	Heatherwood Hospital	1
+D009313	National Health Programs
+6848885	null	The Institute of Living	1
+D012114	Residential Treatment
+37014418	null	Conquest Hospital	1
+D009313	National Health Programs
+1433987	D051270	Headache Disorders, Primary	1
+D006261	Headache
+20759958	D001537	Bencyclane	1
+D002121	Calcium Channel Blockers
+2392455	null	Broadgreen Hospital	1
+D006784	Hospitals, Teaching
+5390728	null	Oblique cord	1
+D008022	Ligaments
+6422925	null	Common extensor tendon	1
+D013710	Tendons
+6029719	null	Horton General Hospital	1
+D009313	National Health Programs
+6717876	null	Fluprednidene acetate	1
+D000305	Adrenal Cortex Hormones
+17383864	null	Premazepam	1
+D001569	Benzodiazepines
+29764340	null	Hospital Punta Pacifica	1
+D006748	Hospital Departments
+24070901	null	The Meriden Hospital	1
+D016304	Hospitals, Private
+4841923	D021821	Communicable Diseases, Emerging	1
+D010380	Peer Review
+353697	D053823	Hedgehog Proteins	1
+D010940	Plant Proteins
+10699234	null	Providence Holy Cross Medical Center	1
+D006748	Hospital Departments
+3850724	D046729	Colitis, Collagenous	1
+D015212	Inflammatory Bowel Diseases
+1171944	D004745	Enkephalins	1
+D010461	Peptones
+1040882	D002990	Clobetasol	1
+D000305	Adrenal Cortex Hormones
+20671231	null	Acne mechanica	1
+D017486	Acneiform Eruptions
+26772257	null	Kirkland and District Hospital	1
+D006779	Hospitals, Public
+14762494	D055532	SMN Complex Proteins	1
+D010940	Plant Proteins
+2073095	null	Capecitabine	1
+D011355	Prodrugs
+8774153	null	Russells Hall Hospital	1
+D009313	National Health Programs
+991758	D011503	Transglutaminases	1
+D001051	Apoenzymes
+18211344	D002925	Ciliary Motility Disorders	1
+D030342	Genetic Diseases, Inborn
+1098265	D012841	Simethicone	1
+D000284	Administration, Oral
+238115	D006494	Heparin Antagonists	1
+D011108	Polymers
+12788262	null	Uxbridge Cottage Hospital	1
+D006748	Hospital Departments
+4344583	null	Octocrylene	1
+D009930	Organic Chemicals
+563977	null	Filgrastim	1
+D016188	Receptors, Granulocyte Colony-Stimulating Factor
+8777	D004266	DNA Virus Infections	1
+D014771	Virion
+14475850	null	Loreclezole	1
+D006993	Hypnotics and Sedatives
+2507339	D011718	Pyrazinamide	1
+D004350	Drug Residues
+29155922	null	Ellen's Glen House	1
+D006764	Hospitals, Community
+82518	D006924	Hymen	1
+D008566	Membranes
+9659	D004697	Endocarditis, Bacterial	1
+D007249	Inflammation
+2974322	D004148	Dioxolanes	1
+D006574	Heterocyclic Compounds, 2-Ring
+3490420	D016713	Ritanserin	1
+D012702	Serotonin Antagonists
+17720767	null	Galactosialidosis	1
+D016464	Lysosomal Storage Diseases
+28451464	null	Institut Pere Mata	1
+D006778	Hospitals, Psychiatric
+5866126	null	Leighton Hospital	1
+D006748	Hospital Departments
+22176410	null	Dennie–Marfan syndrome	1
+D013577	Syndrome
+14508709	D001535	Benactyzine	1
+D018680	Cholinergic Antagonists
+336557	D006403	Hematologic Tests	1
+D007755	Laboratories, Hospital
+3154608	D012488	Salpingitis	1
+D007239	Infection
+18678459	D002714	Chlorisondamine	1
+D011978	Receptors, Nicotinic
+21381829	null	Bart syndrome	1
+D030342	Genetic Diseases, Inborn
+3154633	D009869	Oophoritis	1
+D007249	Inflammation
+1442507	D010768	Phosphoserine	1
+D004952	Esters
+860897	null	Tetrahydrozoline	1
+D000316	Adrenergic alpha-Agonists
+2826985	null	Mitral valve repair	1
+D006348	Cardiac Surgical Procedures
+6300395	null	Creedmoor Psychiatric Center	1
+D006778	Hospitals, Psychiatric
+10044144	null	Diproqualone	1
+D052999	Quinazolinones
+10748669	null	Environmental dependency syndrome	1
+D013577	Syndrome
+254724	null	Ertapenem	1
+D015780	Carbapenems
+25879310	D004632	Emergency Medical Services	1
+D010380	Peer Review
+3097374	D058120	Micrasterias	1
+D022082	Cellular Structures
+1442593	null	Viral protein	1
+D010940	Plant Proteins
+3244835	null	Lardacein	1
+D010940	Plant Proteins
+885541	D002169	Campylobacter Infections	1
+D007239	Infection
+4367160	null	Dyadic developmental psychotherapy	1
+D011613	Psychotherapy
+5505849	D004167	Diphtheria Toxin	1
+D005098	Exotoxins
+3883838	D057048	Plant Nectar	1
+D002241	Carbohydrates
+508739	D011770	Pyruvate Kinase	1
+D001051	Apoenzymes
+42517326	null	Ismailia Teaching Oncology Hospital	1
+D006784	Hospitals, Teaching
+3720015	null	Acephaly	1
+D000013	Congenital Abnormalities
+1499988	D003174	Complement C1 Inactivator Proteins	1
+D000209	Acute-Phase Proteins
+12591970	null	Overlap syndrome	1
+D001327	Autoimmune Diseases
+435043	D005960	Glucosides	1
+D013865	Thioglycosides
+1475435	null	Fingolimod	1
+D049349	Receptors, Lysosphingolipid
+17384301	D008099	Liver	1
+D014781	Viscera
+9773940	null	Antithyroid agent	1
+D006727	Hormone Antagonists
+5391229	null	Pisohamate ligament	1
+D008022	Ligaments
+328579	null	Steroid hormone	1
+D013256	Steroids
+7013253	null	Ajmaline	1
+D000470	Alkaloids
+6931338	null	Pyriproxyfen	2
+D011725	Pyridines
+D007605	Juvenile Hormones
+5989263	D003183	Complement C6	1
+D010940	Plant Proteins
+15319955	null	The Children's Hospital of Winnipeg	1
+D006776	Hospitals, Pediatric
+2876332	D053495	Osteopontin	1
+D005109	Extracellular Matrix
+13951920	null	Metheptazine	1
+D000701	Analgesics, Opioid
+26681435	D063766	Pediatric Obesity	1
+D010380	Peer Review
+18973622	D058503	Mesophyll Cells	1
+D014781	Viscera
+3179447	D003009	Clorazepate Dipotassium	1
+D011355	Prodrugs
+3654590	D008619	Mepivacaine	1
+D000779	Anesthetics, Local
+15410111	null	Prefrontal bone	1
+D001842	Bone and Bones
+4711367	null	Emsam	1
+D057968	Transdermal Patch
+7513034	null	Rasmussen's aneurysm	1
+D011651	Pulmonary Artery
+14861261	null	Blurred vision	1
+D005136	Eye Proteins
+24789967	null	Norwood Hospital	1
+D006748	Hospital Departments
+7013329	D002035	Bunaftine	1
+D000889	Anti-Arrhythmia Agents
+17048535	D017185	Angiostrongylus cantonensis	1
+D002590	Cestode Infections
+3122139	null	Gastrocaine	1
+D000863	Antacids
+5620705	D055415	Bone Morphogenetic Protein 4	1
+D010940	Plant Proteins
+754658	null	Hypopituitarism	1
+D035583	Rare Diseases
+4711412	D006434	Hemocytes	1
+D022082	Cellular Structures
+5989366	D003182	Complement C5	1
+D010940	Plant Proteins
+9321300	null	Advocate Sherman Hospital	1
+D006748	Hospital Departments
+3220480	D012065	Relaxin	1
+D010940	Plant Proteins
+6046721	D010630	Phenindione	1
+D000925	Anticoagulants
+82948	D007188	Incus	1
+D001842	Bone and Bones
+8440662	D020065	Hepatopulmonary Syndrome	1
+D013577	Syndrome
+2491398	D029843	Suregada	1
+D052179	Antigens, Plant
+5612556	null	Resmethrin	1
+D011722	Pyrethrins
+82957	D013199	Stapes	1
+D001842	Bone and Bones
+4056078	null	Brivudine	1
+D000998	Antiviral Agents
+32112813	null	Mount Auburn Hospital	1
+D006748	Hospital Departments
+2679839	D014174	Transketolase	1
+D001051	Apoenzymes
+4121649	null	Halazepam	1
+D001569	Benzodiazepines
+1885240	null	Corona radiata	1
+D066127	White Matter
+6718522	null	Hydrocortisone aceponate	1
+D000305	Adrenal Cortex Hormones
+8429751	D011986	Receptors, Somatotropin	1
+D010940	Plant Proteins
+6718553	null	Difluprednate	1
+D000305	Adrenal Cortex Hormones
+32179292	null	Meningeal biopsy	1
+D001706	Biopsy
+8381542	D004746	Enoyl-CoA Hydratase	1
+D001051	Apoenzymes
+11289705	null	Tiazofurin	1
+D004791	Enzyme Inhibitors
+1737836	D015160	Hydrops Fetalis	1
+D004194	Disease
+2909299	D012500	Santonin	1
+D004350	Drug Residues
+6046848	null	Lepirudin	1
+D000925	Anticoagulants
+533646	D056686	Mimiviridae	1
+D014771	Virion
+15589571	null	Atlantic General Hospital	1
+D009939	Organizations, Nonprofit
+1246360	D004857	Equilin	1
+D002393	Estrogens, Catechol
+2311327	null	Selenium disulfide	1
+D007287	Inorganic Chemicals
+13755554	D018206	Angiolipoma	1
+D050507	Subcutaneous Fat, Abdominal
+13460646	D017259	Dimaprit	1
+D018494	Histamine Agents
+21537959	D009379	Neoplasms, Muscle Tissue	1
+D009385	Neoplastic Processes
+1524906	D001733	Bites and Stings	1
+D022125	Lacerations
+11805871	null	Nephronophthisis	1
+D030342	Genetic Diseases, Inborn
+15066289	D056646	Cathepsin F	1
+D010940	Plant Proteins
+21103797	D003007	Clopidol	1
+D009930	Organic Chemicals
+50363	D007203	Indigo Carmine	1
+D009930	Organic Chemicals
+21103804	D003667	Decoquinate	1
+D003049	Coccidiostats
+37233855	null	Chiniot General Hospital	1
+D009939	Organizations, Nonprofit
+21103815	D005011	Ethopabate	1
+D003049	Coccidiostats
+21103821	null	Halofuginone	1
+D003049	Coccidiostats
+2294999	null	Myelokathexis	1
+D000013	Congenital Abnormalities
+22103265	D020863	Central Nervous System Cysts	1
+D003560	Cysts
+14230757	null	Lenograstim	1
+D004274	DNA, Recombinant
+12813547	D003868	Dequalinium	1
+D000644	Quaternary Ammonium Compounds
+11420915	null	Mucor racemosus	1
+D000908	Antibodies, Fungal
+1762549	D001280	Atrazine	1
+D006540	Herbicides
+6046975	D000074	Acenocoumarol	1
+D000925	Anticoagulants
+24315140	null	Microsporum canis	1
+D000908	Antibodies, Fungal
+15038816	null	Gymnophobia	1
+D005239	Fear
+18680707	null	Westpoint Family Hospital	1
+D016304	Hospitals, Private
+4769045	D016304	Hospitals, Private	1
+D006748	Hospital Departments
+214297	D011981	Receptors, Prolactin	1
+D036361	Peptide Hormones
+23553315	D004448	Echinomycin	1
+D010461	Peptones
+460071	D010849	Picornaviridae	1
+D014771	Virion
+2221355	D041181	Staphylococcus hominis	1
+D003030	Coagulase
+5629240	D019926	Cyclin B	1
+D050258	Mitosis Modulators
+18768096	null	TPA-023	1
+D014151	Anti-Anxiety Agents
+4121924	null	Camazepam	1
+D001569	Benzodiazepines
+984391	D008666	Metalloendopeptidases	1
+D001051	Apoenzymes
+5137736	null	Kokoda Memorial Hospital	1
+D006748	Hospital Departments
+7013707	null	Anterior talofibular ligament	1
+D008022	Ligaments
+2680142	null	Vertically transmitted infection	1
+D007239	Infection
+17744	D007811	Lanthanum	1
+D006245	Hardness Tests
+17747	D007854	Lead	1
+D009498	Neurotoxins
+16868704	null	Mahosot Hospital	1
+D006748	Hospital Departments
+501101	D003034	Coated Pits, Cell-Membrane	1
+D010940	Plant Proteins
+9913721	D000655	Amodiaquine	1
+D006637	Histamine N-Methyltransferase
+18793852	null	TP-13	1
+D014151	Anti-Anxiety Agents
+12543357	D014217	Troleandomycin	1
+D051544	Cytochrome P-450 CYP3A
+14583179	null	Y-23684	1
+D014151	Anti-Anxiety Agents
+1623446	null	Idebenone	1
+D009930	Organic Chemicals
+12543391	null	Midecamycin	1
+D018942	Macrolides
+9479585	null	Reposal	1
+D001463	Barbiturates
+12027303	D047208	Eosinophil-Derived Neurotoxin	1
+D001051	Apoenzymes
+3949992	D015026	Zeatin	1
+D010937	Plant Growth Regulators
+17622451	D002178	Candidiasis, Chronic Mucocutaneous	1
+D007154	Immune System Diseases
+304566	null	Avolition	1
+D011584	Psychology
+5645755	D055418	Bone Morphogenetic Protein 6	1
+D010940	Plant Proteins
+427455	D000408	Alamethicin	1
+D010461	Peptones
+20710861	null	Corbett Hospital	1
+D009313	National Health Programs
+10053076	D013241	Sterigmatocystin	1
+D015651	Mycotoxicosis
+2917845	D058566	Sacroiliitis	1
+D007249	Inflammation
+12772829	null	Lakeridge Health Whitby	1
+D063187	Nursing Stations
+32925165	null	Hoboken University Medical Center	1
+D006748	Hospital Departments
+19154416	null	Gerald Champion Regional Medical Center	1
+D006748	Hospital Departments
+5206378	null	Royal Cornhill Hospital	1
+D006778	Hospitals, Psychiatric
+11437567	null	Cladosporium herbarum	1
+D000908	Antibodies, Fungal
+11494927	null	Royal Brisbane and Women's Hospital	1
+D006748	Hospital Departments
+3474966	null	Achard syndrome	1
+D013577	Syndrome
+58906	null	Gland	1
+D014781	Viscera
+2885154	null	Sulcus sign	1
+D019637	Orthopedic Procedures
+14485040	null	Jefferson fracture	1
+D050723	Fractures, Bone
+869937	null	Aagenaes syndrome	1
+D013577	Syndrome
+8218169	null	Phenazepam	1
+D001569	Benzodiazepines
+31548992	D031482	Cynomorium	1
+D010271	Parasites
+5932610	null	Ibn Sina Hospital	1
+D006748	Hospital Departments
+14722632	D002402	Cathepsin D	1
+D010940	Plant Proteins
+14452306	D013837	Thiamin-Triphosphatase	1
+D001051	Apoenzymes
+26195	D012327	RNA Virus Infections	1
+D014771	Virion
+6121044	D012228	Rhinosporidium	1
+D005057	Eukaryotic Cells
+30844503	null	Sodium bisulfite	1
+D005503	Food Additives
+10454617	null	Tepoxalin	1
+D000894	Anti-Inflammatory Agents, Non-Steroidal
+34050319	D036386	Ephrin-A5	1
+D010940	Plant Proteins
+1222237	D059525	Supraglottitis	1
+D007249	Inflammation
+10072336	null	Ventura County Medical Center	1
+D006748	Hospital Departments
+6833771	D017315	Cilazapril	1
+D007703	Peptidyl-Dipeptidase A
+34420	D015032	Zinc	1
+D018977	Micronutrients
+31311478	null	Macelignan	1
+D017705	Lignans
+21161599	D001735	Bithionol	1
+D000871	Anthelmintics
+7128707	null	Community Hospital East	1
+D006748	Hospital Departments
+968332	D006776	Hospitals, Pediatric	1
+D006748	Hospital Departments
+17286797	null	JWH-176	1
+D000698	Analgesia
+7456409	null	Gingival cyst of the newborn	1
+D003560	Cysts
+11585189	null	Royal Shrewsbury Hospital	1
+D006784	Hospitals, Teaching
+3253941	D009552	Nikethamide	1
+D018758	Stimulants, Historical
+10806968	D053668	Syndecan-1	1
+D010940	Plant Proteins
+12920511	null	Tioclomarol	1
+D000925	Anticoagulants
+57069	null	Pentaerythritol	1
+D009930	Organic Chemicals
+12920524	D005017	Ethyl Biscoumacetate	1
+D014812	Vitamin K
+17983186	null	Hodgkinsine	1
+D000470	Alkaloids
+3450582	D064249	Securin	1
+D010940	Plant Proteins
+12920536	null	Diphenadione	1
+D014812	Vitamin K
+13906212	null	Methylketobemidone	1
+D000701	Analgesics, Opioid
+10626778	D000279	Administration, Cutaneous	1
+D000282	Administration, Intravaginal
+12920541	null	Clorindione	1
+D014812	Vitamin K
+5654239	D055398	Bone Morphogenetic Protein 3	1
+D010940	Plant Proteins
+1255131	null	Omalizumab	1
+D004274	DNA, Recombinant
+894700	null	Omohyoid muscle	1
+D009124	Muscle Proteins
+14264047	null	Sulazepam	1
+D001569	Benzodiazepines
+2729712	D004072	Digitonin	1
+D013865	Thioglycosides
+1754870	null	Black pox	1
+D012816	Signs and Symptoms
+25364221	D009670	Encephalitozoon cuniculi	1
+D005057	Eukaryotic Cells
+3049240	null	Anterior communicating artery	1
+D001808	Blood Vessels
+6031130	null	Radionuclide cisternogram	1
+D003952	Diagnostic Imaging
+5269277	null	Uncinate fasciculus	1
+D066127	White Matter
+13371175	null	Phenomorphan	1
+D000701	Analgesics, Opioid
+3827514	D019257	Quinpirole	1
+D011619	Psychotropic Drugs
+18237	null	Lithium carbonate	1
+D007287	Inorganic Chemicals
+5736261	D020933	Neurotrophin 3	1
+D010940	Plant Proteins
+1132372	D008555	Melitten	1
+D010461	Peptones
+3221333	null	Uropathy	1
+D004194	Disease
+10831708	null	Spinosad	1
+D007306	Insecticides
+59262	D000166	Acridines	1
+D009930	Organic Chemicals
+6023039	D000626	Aminopeptidases	1
+D015032	Zinc
+19974016	null	Diphenidol	1
+D018727	Muscarinic Antagonists
+1804169	D015759	Ionomycin	1
+D007476	Ionophores
+649100	null	Adderall	1
+D018758	Stimulants, Historical
+2385806	null	Butalbital	1
+D001463	Barbiturates
+14772113	D049031	Sarcoglycans	1
+D010940	Plant Proteins
+12871576	D037821	Casearia	1
+D052179	Antigens, Plant
+5646252	D055417	Bone Morphogenetic Protein 5	1
+D010940	Plant Proteins
+12637261	null	Styramate	1
+D009125	Muscle Relaxants, Central
+9701299	null	Stamulumab	1
+D004274	DNA, Recombinant
+12109751	D012491	Salt Gland	1
+D014781	Viscera
+6662079	null	Vorozole	1
+D007093	Imidazoles
+1697731	null	Bromethalin	1
+D012378	Rodenticides
+1432568	null	Saint Louis University Hospital	1
+D006748	Hospital Departments
+20572121	D013253	Steroid 12-alpha-Hydroxylase	1
+D004721	Endoplasmic Reticulum
+8652769	D014476	Undecylenic Acids	1
+D009930	Organic Chemicals
+67554	D058865	Introduced Species	1
+D052179	Antigens, Plant
+18581481	null	Derbyshire Children's Hospital	1
+D006776	Hospitals, Pediatric
+28985328	null	UAMS Medical Center	1
+D006784	Hospitals, Teaching
+7415797	null	Cobb Memorial Hospital	1
+D006748	Hospital Departments
+36947967	D007468	Iodopyracet	1
+D003287	Contrast Media
+600067	null	Conn's syndrome	1
+D000450	Aldosterone
+18368543	null	Värnamo Sjukhus	1
+D006748	Hospital Departments
+7330822	D039921	Neuropilins	1
+D010940	Plant Proteins
+231462	D020423	Median Neuropathy	1
+D009411	Nerve Endings
+411687	D006100	Granuloma Inguinale	1
+D000907	Antibodies, Bacterial
+6826029	null	Stercoral ulcer	1
+D013276	Stomach Ulcer
+5752878	null	Norfolk General Hospital	1
+D006748	Hospital Departments
+3418166	null	Overriding aorta	1
+D006330	Heart Defects, Congenital
+1656889	D007402	Intertrigo	1
+D007249	Inflammation
+3434559	D019007	P-Selectin	1
+D010940	Plant Proteins
+5539904	D051301	Desmoglein 2	1
+D010940	Plant Proteins
+6047815	null	Paramethadione	1
+D000927	Anticonvulsants
+36620360	null	Uterine incarceration	1
+D013513	Obstetric Surgical Procedures
+3262538	null	Lysergol	1
+D000470	Alkaloids
+10078289	null	London Bridge Hospital	1
+D016304	Hospitals, Private
+6563926	null	T7 RNA polymerase	1
+D012321	DNA-Directed RNA Polymerases
+12838999	D007788	Lactose Synthase	1
+D001051	Apoenzymes
+1099868	null	Prostratin	1
+D011493	Protein Kinase C
+6441055	D009233	Myxoma virus	1
+D014771	Virion
+40870246	null	Calderdale Royal Hospital	1
+D006748	Hospital Departments
+14772335	D003564	Cytidine Deaminase	1
+D001051	Apoenzymes
+27273328	null	Mayaro virus disease	1
+D009033	Culicidae
+15959743	null	O'Connor Hospital	1
+D006748	Hospital Departments
+414058	null	Oxcarbazepine	1
+D000927	Anticonvulsants
+9701506	null	Efungumab	1
+D057127	Single-Chain Antibodies
+6047879	null	Phensuximide	1
+D000927	Anticonvulsants
+395402	D019915	DNA Primase	1
+D001051	Apoenzymes
+12224655	null	Bushey Fields Hospital	1
+D006778	Hospitals, Psychiatric
+5097621	D045683	Furin	1
+D010940	Plant Proteins
+297117	null	Hydrofluoric acid	1
+D012996	Solutions
+59553	D000419	Albuminuria	1
+D010335	Pathologic Processes
+12830886	null	Ditazole	1
+D001792	Blood Platelets
+17361070	null	AM-919	1
+D000698	Analgesia
+17016524	null	14-Ethoxymetopon	1
+D000701	Analgesics, Opioid
+18592119	null	Piroheptine	1
+D018680	Cholinergic Antagonists
+411856	D006191	Haemophilus ducreyi	1
+D003470	Culture Media
+1673425	D004316	Doxepin	1
+D000929	Antidepressive Agents, Tricyclic
+18645	D043322	Lactase	1
+D001051	Apoenzymes
+5179609	null	Polychromia	1
+D030342	Genetic Diseases, Inborn
+6047975	null	Phenacemide	1
+D000927	Anticonvulsants
+1714411	null	Urinary tract obstruction	1
+D014570	Urologic Diseases
+14723308	D064326	MEF2 Transcription Factors	1
+D010940	Plant Proteins
+24717561	D006165	Guanylyl Imidodiphosphate	1
+D011684	Purine Nucleosides
+21088513	null	Amoebic brain abscess	1
+D001922	Brain Abscess
+1386758	D007555	Isoxazoles	1
+D004149	Dioxoles
+39995662	null	East Surrey Hospital	1
+D009313	National Health Programs
+17950996	null	Spirobarbital	1
+D001463	Barbiturates
+12208405	null	Aphallia	1
+D000013	Congenital Abnormalities
+559383	null	Sutter Delta Medical Center	1
+D006748	Hospital Departments
+17336600	null	AM-087	1
+D000698	Analgesia
+25528604	null	Circumvallate placenta	1
+D010922	Placenta Diseases
+11675935	D004342	Drug Hypersensitivity	1
+D012882	Skin Tests
+10905892	D050603	Squalene Monooxygenase	1
+D001051	Apoenzymes
+1460525	D004263	DNA Tumor Viruses	1
+D014771	Virion
+18735	null	Lycopene	1
+D014315	Triterpenes
+33646899	null	Yim–Ebbin syndrome	1
+D000013	Congenital Abnormalities
+37038388	D018227	Sarcoma, Clear Cell	1
+D017599	Neuroectodermal Tumors
+26962232	D014622	Vaginal Creams, Foams, and Jellies	1
+D000282	Administration, Intravaginal
+16058681	null	Verdamicin	1
+D000617	Aminoglycosides
+3877183	D011760	Pyrrolidinones	1
+D009930	Organic Chemicals
+18753856	null	Maternity hospital	1
+D006748	Hospital Departments
+485700	D006784	Hospitals, Teaching	1
+D006748	Hospital Departments
+1763662	D007331	Insulin Coma	1
+D007004	Hypoglycemic Agents
+10053981	null	Patan Hospital	1
+D006784	Hospitals, Teaching
+14428511	D044183	Receptor, Parathyroid Hormone, Type 2	1
+D010940	Plant Proteins
+2369888	D004765	Enteropeptidase	1
+D015842	Serine Proteinase Inhibitors
+92514	D003902	Detergents	1
+D014906	Wetting Agents
+2484579	null	Cyanuric chloride	1
+D009930	Organic Chemicals
+3697003	null	Fucus serratus	1
+D012624	Seaweed
+6048124	null	Lercanidipine	1
+D002121	Calcium Channel Blockers
+13519234	null	Adrenalone	1
+D018663	Adrenergic Agents
+19622278	null	Diisopropylphosphate	1
+D000110	Acetylcholinesterase
+11930007	D030061	Parechovirus	1
+D014771	Virion
+4385176	null	Vaginal artery	1
+D001158	Arteries
+20938066	D016336	Gene Products, vpr	1
+D015488	HIV Antigens
+543144	D005697	Galactosides	1
+D013865	Thioglycosides
+22718893	null	EAST syndrome	1
+D013577	Syndrome
+5015982	D018563	Disease Notification	1
+D016021	Epidemiologic Studies
+9718203	D063267	Sialic Acid Binding Ig-like Lectin 1	1
+D015815	Cell Adhesion Molecules
+14068158	null	SNC-80	1
+D000701	Analgesics, Opioid
+2927039	null	Ecgonine	1
+D003508	Cycloheptanes
+35277251	null	Braverman's sign	1
+D003879	Dermatologic Agents
+947958	null	Pramiracetam	1
+D002491	Central Nervous System Agents
+17336774	null	AMG-3	1
+D000698	Analgesia
+4385223	null	Middle rectal artery	1
+D001158	Arteries
+3557836	null	Hospital Pulido Valente	1
+D006748	Hospital Departments
+26398612	null	Irregular menstruation	1
+D008599	Menstruation Disturbances
+5310944	null	Etonogestrel	1
+D013256	Steroids
+2566627	null	Actinidine	1
+D011725	Pyridines
+8858088	null	Emodepside	1
+D000871	Anthelmintics
+27117	D018036	Selenium Compounds	1
+D012666	Semiconductors
+1804789	null	5-MeO-MiPT	1
+D006213	Hallucinogens
+5401082	D011352	Procyclidine	1
+D018680	Cholinergic Antagonists
+24652286	null	Bumper fracture	1
+D050723	Fractures, Bone
+9325057	null	Butallylonal	1
+D001463	Barbiturates
+7137808	D049030	Dystroglycans	1
+D010940	Plant Proteins
+19827221	D001180	Arthropod Venoms	1
+D007447	Invertebrate Hormones
+5499414	D051183	Desmoglein 1	1
+D010940	Plant Proteins
+5499415	D051184	Desmoglein 3	1
+D010940	Plant Proteins
+13912606	D003111	Colonic Polyps	1
+D018256	Adenomatous Polyps
+18926125	null	Sematilide	1
+D000889	Anti-Arrhythmia Agents
+6195759	D010158	Palatal Obturators	1
+D019919	Prosthesis Implantation
+23538227	null	Michels syndrome	1
+D013577	Syndrome
+748099	D005422	Flavoxate	1
+D018680	Cholinergic Antagonists
+7105107	D051180	Desmoplakins	1
+D010940	Plant Proteins
+4131413	null	Gidazepam	1
+D011355	Prodrugs
+17648221	null	LR-5182	1
+D018758	Stimulants, Historical
+18295394	null	Long Beach Memorial Medical Center	1
+D006748	Hospital Departments
+3934840	null	Superior gluteal nerve	1
+D009411	Nerve Endings
+17615493	null	Centerpoint Medical Center	1
+D006748	Hospital Departments
+19732247	D019873	Schnitzler Syndrome	1
+D035583	Rare Diseases
+7137936	D049411	Utrophin	1
+D010940	Plant Proteins
+5117720	null	Chlorfenapyr	1
+D010575	Pesticides
+31869611	null	York Hospital	1
+D009313	National Health Programs
+17074865	null	Prostatic stent	1
+D015607	Stents
+4958898	null	Rescinnamine	1
+D000806	Angiotensin-Converting Enzyme Inhibitors
+142005	null	Thyroid neoplasm	1
+D009385	Neoplastic Processes
+862904	null	Expressive language disorder	1
+D003147	Communication Disorders
+2730682	null	Bullous pemphigoid	1
+D000208	Acute Disease
+322237	D029760	Garcinia	1
+D052179	Antigens, Plant
+51903	D011505	Protein-Tyrosine Kinases	1
+D001051	Apoenzymes
+5507788	D058575	Decorin	1
+D010940	Plant Proteins
+17853134	null	Amfepentorex	1
+D018758	Stimulants, Historical
+10975	D005231	Fatty Acids, Unsaturated	1
+D002264	Carboxylic Acids
+584416	null	Uterine contraction	1
+D003285	Contractile Proteins
+2640609	D000331	Aequorin	1
+D002135	Calcium-Binding Proteins
+10717940	D012839	Simazine	1
+D006540	Herbicides
+2190069	D010966	Plasmodium vivax	1
+D000953	Antigens, Protozoan
+14066133	null	Intermountain Medical Center	1
+D006784	Hospitals, Teaching
+11127559	null	Cochliobolus spicifer	1
+D000908	Antibodies, Fungal
+961291	D019276	Glycocalyx	1
+D006023	Glycoproteins
+16468750	D000710	Anaplasmataceae	1
+D020564	Deltaproteobacteria
+6662945	D008234	Lynestrenol	1
+D011372	Progestins
+9693996	D012103	Batroxobin	1
+D015842	Serine Proteinase Inhibitors
+27994930	null	National Kidney and Transplant Institute	1
+D062606	Tertiary Care Centers
+5573434	null	Homosalate	1
+D009930	Organic Chemicals
+17173318	D052456	Hypoalphalipoproteinemias	1
+D008075	Lipoproteins, HDL
+31714128	null	Skin fissure	1
+D012871	Skin Diseases
+5180263	D023501	Chlamydophila	1
+D000907	Antibodies, Bacterial
+25447282	null	Lepidopterism	1
+D017453	Dermatitis, Irritant
+9907064	D034904	Lamin Type A	1
+D010940	Plant Proteins
+1076090	null	Hyperforin	1
+D064209	Phytochemicals
+22555516	null	Madras Medical Mission	1
+D006748	Hospital Departments
+13593475	null	Zylofuramine	1
+D018758	Stimulants, Historical
+19434377	null	Metocurine	1
+D009125	Muscle Relaxants, Central
+715658	null	Royal Hospital Chelsea	1
+D006707	Homes for the Aged
+10316684	D048013	Clostridium thermocellum	1
+D006089	Gram-Negative Anaerobic Bacteria
+7638170	null	Mitral valve replacement	1
+D006348	Cardiac Surgical Procedures
+9653151	D011812	Quinuclidines	1
+D009930	Organic Chemicals
+4025258	null	Eplerenone	1
+D062865	Diuretics, Potassium Sparing
+333167	null	Aromatic amine	1
+D000588	Amines
+21040052	null	Psoriatic nails	1
+D009260	Nail Diseases
+4074428	D044943	Fatty Acid Desaturases	1
+D001051	Apoenzymes
+1657789	null	Evans syndrome	1
+D001327	Autoimmune Diseases
+3197887	D008205	Lymphangitis	1
+D007249	Inflammation
+11668418	null	Bay Park Community Hospital	1
+D006779	Hospitals, Public
+12446661	null	Portmanteau inhibitor	1
+D004350	Drug Residues
+11668424	null	The Toledo Hospital	1
+D006779	Hospitals, Public
+20188107	null	Butacaine	1
+D000779	Anesthetics, Local
+148249	D000474	Alkaptonuria	1
+D035583	Rare Diseases
+16190421	null	CGS-9896	1
+D014151	Anti-Anxiety Agents
+11668438	null	Flower Hospital	1
+D006779	Hospitals, Public
+609194	D010556	Personality Tests	1
+D011795	Questionnaires
+12651489	D051846	beta-Synuclein	1
+D010940	Plant Proteins
+13806562	null	Earls House Hospital	1
+D006748	Hospital Departments
+17361898	null	AM-4030	1
+D000698	Analgesia
+12651511	D051845	gamma-Synuclein	1
+D010940	Plant Proteins
+306169	D005027	Ethylene Oxide	1
+D004202	Disinfectants
+24849403	null	Cryptogenic disease	1
+D004194	Disease
+2886658	null	Ciliary ganglion	1
+D010275	Parasympathetic Nervous System
+10865672	null	Thiofentanyl	1
+D000701	Analgesics, Opioid
+9686026	null	Tadocizumab	1
+D061067	Antibodies, Monoclonal, Humanized
+2894874	null	Ochsner Baptist Medical Center	1
+D006748	Hospital Departments
+8096796	D023303	Oxazolidinones	1
+D006574	Heterocyclic Compounds, 2-Ring
+11832350	D017978	Receptors, Growth Factor	1
+D011955	Receptors, Drug
+15117347	null	Gephyrophobia	1
+D001008	Anxiety Disorders
+8866863	null	Pneumococcal vaccine	1
+D014612	Vaccines
+5499963	D037341	Fumonisins	1
+D015651	Mycotoxicosis
+16190529	null	CGS-20625	1
+D014151	Anti-Anxiety Agents
+511049	D000990	Antithrombin III	1
+D006023	Glycoproteins
+9784397	null	Trichophyton rubrum	1
+D003883	Arthrodermataceae
+3984464	D005630	Fructans	1
+D011108	Polymers
+27978834	null	Arbroath Infirmary	1
+D006748	Hospital Departments
+3132502	D012897	Slow Virus Diseases	1
+D014771	Virion
+1961054	D006864	Hydrogenase	1
+D001051	Apoenzymes
+4893797	D012061	Relapsing Fever	1
+D007303	Insect Vectors
+1117286	D007093	Imidazoles	1
+D009930	Organic Chemicals
+17337448	null	AMG-41	1
+D000698	Analgesia
+7826539	D004117	Dimethoate	1
+D002800	Cholinesterase Inhibitors
+3148908	D052201	Lactobacillus rhamnosus	1
+D000907	Antibodies, Bacterial
+4541549	null	Ovarian artery	1
+D001158	Arteries
+7793785	null	Cefn Coed Hospital	1
+D006778	Hospitals, Psychiatric
+28941503	null	Leith Community Treatment Centre	1
+D006764	Hospitals, Community
+16837757	null	Hexokinase deficiency	1
+D000753	Anemia, Refractory
+2157713	null	Primidone	1
+D000927	Anticonvulsants
+20212883	null	Churchill Hospital	1
+D006784	Hospitals, Teaching
+2641050	null	Taunton State Hospital	1
+D006778	Hospitals, Psychiatric
+1232030	null	Adrafinil	1
+D011355	Prodrugs
+40133	D001409	Bacillus cereus	1
+D019353	Endemic Diseases
+9366697	null	Lymington New Forest Hospital	1
+D006764	Hospitals, Community
+5876910	null	Cuneonavicular articulation	1
+D007596	Joints
+3173552	null	18-Crown-6	1
+D009930	Organic Chemicals
+16821436	null	Insulitis	1
+D007249	Inflammation
+5074109	D004666	Encephalitis Virus, Venezuelan Equine	1
+D009033	Culicidae
+11668673	null	Detomidine	1
+D007093	Imidazoles
+1100996	null	Internal pudendal artery	1
+D001158	Arteries
+9563337	null	Haloprogin	1
+D000935	Antifungal Agents
+5876938	null	Cuboideonavicular articulation	1
+D007596	Joints
+14929103	null	PRO 140	1
+D061067	Antibodies, Monoclonal, Humanized
+6704336	null	Pine Rest Christian Mental Health Services	1
+D006778	Hospitals, Psychiatric
+24412707	null	Chopart's fracture–dislocation	1
+D004204	Dislocations
+5508309	null	Nerve to quadratus femoris	1
+D009411	Nerve Endings
+1551578	D020799	Pancrelipase	1
+D001051	Apoenzymes
+20761821	null	Opioid overdose	1
+D000208	Acute Disease
+142549	D010538	Peritonitis	1
+D007249	Inflammation
+30862594	D019819	Budesonide	1
+D005938	Glucocorticoids
+716048	D013911	Thorium Dioxide	1
+D013535	Suspensions
+14765329	D030741	Carbonic Anhydrase IV	1
+D001051	Apoenzymes
+240914	D014459	Ulnar Nerve	1
+D009411	Nerve Endings
+1723667	D050130	Oncolytic Virotherapy	1
+D014771	Virion
+732438	null	Etanercept	1
+D050506	Mutant Chimeric Proteins
+21114139	null	Adenovirus vaccine	1
+D014612	Vaccines
+23579933	D016604	Aflatoxin B1	1
+D016607	Aflatoxin M1
+1879259	D060326	Chemistry Techniques, Synthetic	1
+D010380	Peer Review
+2067748	null	Arsenic trioxide	1
+D007287	Inorganic Chemicals
+1969445	null	Superior rectus muscle	1
+D009124	Muscle Proteins
+16921138	null	JWH-307	1
+D000698	Analgesia
+1969465	null	Inferior rectus muscle	1
+D009124	Muscle Proteins
+7449915	null	Hahnemann University Hospital	1
+D006784	Hospitals, Teaching
+17337665	null	AM-906	1
+D000698	Analgesia
+1969474	null	Lateral rectus muscle	1
+D009124	Muscle Proteins
+1969481	null	Medial rectus muscle	1
+D009124	Muscle Proteins
+27978	null	Skin	1
+D014781	Viscera
+29966903	D008356	Mannoheptulose	1
+D006593	Hexokinase
+13389132	D008711	Metergoline	1
+D011619	Psychotropic Drugs
+5590352	D002995	Clofibric Acid	1
+D006540	Herbicides
+2248021	null	Hydrocortisone butyrate	1
+D000305	Adrenal Cortex Hormones
+5999964	D015286	Kassinin	1
+D010461	Peptones
+12635488	null	Tasosartan	1
+D047228	Angiotensin II Type 1 Receptor Blockers
+42898	D000881	Anthrax	1
+D000208	Acute Disease
+5123449	null	Actinic conjunctivitis	1
+D003231	Conjunctivitis
+25718176	D037502	Galectin 3	1
+D010940	Plant Proteins
+12570028	null	Patton State Hospital	1
+D006778	Hospitals, Psychiatric
+2297262	null	Deep vein	1
+D014680	Veins
+71581	D012254	Ribavirin	2
+D006151	Guanosine
+D011355	Prodrugs
+544177	D010963	Plasmodium falciparum	1
+D000953	Antigens, Protozoan
+13102515	D064236	Cartilage Oligomeric Matrix Protein	1
+D010940	Plant Proteins
+5828023	null	ABVD	1
+D000971	Antineoplastic Combined Chemotherapy Protocols
+8900027	null	Ecromeximab	1
+D050506	Mutant Chimeric Proteins
+355776	D010383	Pellagra	1
+D014815	Vitamins
+11570638	D051218	Lymphocyte Antigen 96	1
+D010940	Plant Proteins
+1813968	D014326	Tropanes	1
+D017672	Nitrogen Compounds
+3042769	null	Adductor pollicis muscle	1
+D009124	Muscle Proteins
+26705145	null	Providence Tarzana Medical Center	1
+D006748	Hospital Departments
+17337829	null	AM-905	1
+D000698	Analgesia
+4959719	null	Nicardipine	1
+D004095	Dihydropyridines
+3173869	null	Petit's hernia	1
+D046449	Hernia, Abdominal
+191984	D005984	Glutethimide	1
+D006992	Hypnosis, Dental
+2420212	D017660	Autoreceptors	1
+D011955	Receptors, Drug
+11775481	null	Cladosporium cladosporioides	1
+D000908	Antibodies, Fungal
+3911162	null	2,4 Dienoyl-CoA reductase deficiency	1
+D008661	Metabolism, Inborn Errors
+3853567	D011728	Pyridones	1
+D009930	Organic Chemicals
+323069	null	Skeletal fluorosis	1
+D001842	Bone and Bones
+3042820	null	Inferior gemellus muscle	1
+D009124	Muscle Proteins
+3042829	null	Superior gemellus muscle	1
+D009124	Muscle Proteins
+3681809	D009335	Necrobiosis Lipoidica	1
+D009336	Necrosis
+44568	D060434	Herbivory	1
+D000818	Animals
+4623897	null	Barium iodide	1
+D007287	Inorganic Chemicals
+11806	null	Foix–Alajouanine syndrome	1
+D004194	Disease
+37244449	null	Semax	1
+D004350	Drug Residues
+7384610	null	3-Nitroaniline	1
+D000814	Aniline Compounds
+429616	D017829	Granisetron	1
+D018490	Serotonin Agents
+34482099	null	Genitopatellar syndrome	1
+D035583	Rare Diseases
+13921871	null	Herkinorin	1
+D000701	Analgesics, Opioid
+14118487	D050717	Retinoblastoma-Like Protein p130	1
+D010940	Plant Proteins
+24415835	null	Essex-Lopresti fracture	1
+D050723	Fractures, Bone
+314983	D006898	Hydroxylamines	1
+D007287	Inorganic Chemicals
+298600	D011343	Procaine	1
+D000779	Anesthetics, Local
+18099825	null	Antalgic gait	1
+D005684	Gait
+42176118	null	Brincidofovir	1
+D011355	Prodrugs
+1453692	null	MetroWest Medical Center	1
+D006784	Hospitals, Teaching
+5828221	null	BEACOPP	1
+D000971	Antineoplastic Combined Chemotherapy Protocols
+2870914	D014314	Trisomy	1
+D030342	Genetic Diseases, Inborn
+3717	D001921	Brain	1
+D014781	Viscera
+2109062	D003513	Cycloheximide	1
+D004791	Enzyme Inhibitors
+9514636	D010320	Parvalbumins	1
+D017610	Calcium Compounds
+290448	D007647	Kernicterus	1
+D001663	Bilirubin
+6172323	null	Alefacept	2
+D005818	Genetic Engineering
+D050506	Mutant Chimeric Proteins
+1552040	null	Aaron's sign	1
+D053591	Pain, Referred
+33019085	null	XELIRI	1
+D000971	Antineoplastic Combined Chemotherapy Protocols
+4468422	null	Anterior jugular vein	1
+D014680	Veins
+7499478	null	Wakari Hospital	1
+D006778	Hospitals, Psychiatric
+3387097	null	Cyclospora cayetanensis	1
+D000953	Antigens, Protozoan
+18386654	null	Scapular fracture	1
+D050723	Fractures, Bone
+16109288	D055089	Tracheobronchomalacia	1
+D004194	Disease
+14569196	null	RWJ-51204	1
+D014151	Anti-Anxiety Agents
+456659	D010615	Phenacetin	1
+D000698	Analgesia
+15044356	null	Miotine	1
+D002800	Cholinesterase Inhibitors
+10784518	D010059	Ovomucin	1
+D014361	Trypsin Inhibitors
+21262977	null	Ro 04-6790	1
+D004350	Drug Residues
+43146540	D046808	Atadenovirus	1
+D006386	Hemagglutination Tests
+6246155	null	Patella fracture	1
+D050723	Fractures, Bone
+10661644	D012980	Sodium Salicylate	1
+D017670	Sodium Compounds
+40914221	null	Aphalangia	1
+D013577	Syndrome
+1478416	D010309	Parotitis	1
+D007249	Inflammation
+34023385	null	Jalili syndrome	1
+D030342	Genetic Diseases, Inborn
+32853793	null	Nork-Marash Medical Center	1
+D006784	Hospitals, Teaching
+25513763	null	Northampton General Hospital	1
+D009313	National Health Programs
+28995365	null	Corstorphine Hospital	1
+D006764	Hospitals, Community
+4681526	null	Infraorbital artery	1
+D001158	Arteries
+30723903	null	Piperacetazine	1
+D014150	Antipsychotic Agents
+12865347	D041002	Brucella canis	1
+D019688	Gram-Negative Oxygenic Photosynthetic Bacteria
+192331	D010938	Plant Oils	1
+D014280	Triglycerides
+30863182	null	Temozolomide	1
+D011355	Prodrugs
+13422417	null	St. Vincent Mercy Children's Hospital	1
+D006776	Hospitals, Pediatric
+10014557	null	Magnesium trisilicate	1
+D007287	Inorganic Chemicals
+880497	D008041	Linoleic Acids	1
+D002264	Carboxylic Acids
+10637170	null	Legacy Emanuel Medical Center	1
+D006748	Hospital Departments
+26914676	D007784	Lactoperoxidase	1
+D009195	Peroxidase
+14577528	D004600	Eledoisin	1
+D010461	Peptones
+1404800	D050879	Sarcosine Oxidase	1
+D001051	Apoenzymes
+13422466	null	St. Anne Mercy Hospital	1
+D006748	Hospital Departments
+6033287	null	Ochsner Medical Center – West Bank	1
+D006748	Hospital Departments
+19296148	null	Spermatocytic seminoma	1
+D009385	Neoplastic Processes
+19353496	null	Hôpital de La Grave	1
+D006748	Hospital Departments
+28995481	null	Tippethill House Hospital	1
+D006764	Hospitals, Community
+888735	null	Parkland Memorial Hospital	1
+D006748	Hospital Departments
+13643691	null	Tifluadom	1
+D001569	Benzodiazepines
+249778	D013077	Sperm Head	1
+D015388	Organelles
+17338292	null	AMG-1	1
+D000698	Analgesia
+22892474	null	Parrish Medical Center	1
+D006748	Hospital Departments
+274371	null	Intersection syndrome	1
+D059787	Acute Pain
+3059656	null	Genioglossus	1
+D009124	Muscle Proteins
+757705	D017328	Fosinopril	1
+D000806	Angiotensin-Converting Enzyme Inhibitors
+10072011	null	UCLA Medical Center, Santa Monica	1
+D006748	Hospital Departments
+61389	D012266	Ribose	1
+D009930	Organic Chemicals
+12242	D005857	Germanium	1
+D012666	Semiconductors
+14766046	D056655	Cathepsin H	1
+D010940	Plant Proteins
+13963236	null	Fesoterodine	1
+D011355	Prodrugs
+3149805	null	Thoracodorsal nerve	1
+D009411	Nerve Endings
+2248687	null	Betamethasone dipropionate	1
+D005938	Glucocorticoids
+10080243	null	Santa Barbara Cottage Hospital	1
+D006748	Hospital Departments
+25333765	null	Rudiger syndrome	1
+D000013	Congenital Abnormalities
+14569487	null	CL-218,872	1
+D006993	Hypnotics and Sedatives
+36956163	null	Xinhui People's Hospital	1
+D006748	Hospital Departments
+5558299	null	Cinoxate	1
+D009930	Organic Chemicals
+9089058	null	Bootham Park Hospital	1
+D006778	Hospitals, Psychiatric
+10416164	D010734	Phosphogluconate Dehydrogenase	1
+D001051	Apoenzymes
+946220	null	Eprosartan	1
+D047228	Angiotensin II Type 1 Receptor Blockers
+21363919	null	Vicente Sotto Memorial Medical Center	1
+D006748	Hospital Departments
+6975538	D016970	Eikenella	1
+D003470	Culture Media
+12742710	null	Clofibride	1
+D058607	Fibric Acids
+23484425	D011245	Pregnadienes	1
+D000466	Alkadienes
+4485180	null	Inferior thyroid artery	1
+D001158	Arteries
+13422654	null	Mercy Hospital of Defiance	1
+D006748	Hospital Departments
+12742723	null	Etofibrate	1
+D058607	Fibric Acids
+12742727	null	Ciprofibrate	1
+D058607	Fibric Acids
+569418	null	Reflex arc	1
+D009434	Neural Pathways
+12742736	null	Ronifibrate	1
+D058607	Fibric Acids
+12742742	null	Simfibrate	1
+D058607	Fibric Acids
+5640286	null	1,4-Thiazepine	1
+D013841	Thiazepines
+3838061	D017939	Coronavirus, Canine	1
+D014771	Virion
+12742782	null	Acipimox	1
+D009525	Niacin
+12071039	null	Nepafenac	1
+D011355	Prodrugs
+3346564	null	X-linked adrenal hypoplasia congenita	1
+D030342	Genetic Diseases, Inborn
+5804166	null	Pendimethalin	1
+D006540	Herbicides
+12742801	null	Aluminium nicotinate	1
+D009525	Niacin
+22876313	null	HIV-associated pruritus	1
+D012871	Skin Diseases
+18493597	null	Mebutizide	1
+D004232	Diuretics
+5206174	D022721	Vaccines, Virosome	1
+D004337	Drug Carriers
+250029	null	Iron poisoning	1
+D019190	Iron Overload
+544943	D008061	Whipple Disease	1
+D035583	Rare Diseases
+28852	D013592	Syphilis, Latent	1
+D015229	Sexually Transmitted Diseases, Viral
+17797304	D054079	Vascular Malformations	1
+D001808	Blood Vessels
+18493633	D008736	Methyclothiazide	1
+D004232	Diuretics
+33059011	null	Lycoperdonosis	1
+D012140	Respiratory Tract Diseases
+12742854	null	Tiadenol	1
+D000960	Hypolipidemic Agents
+1487049	null	Alta Bates Summit Medical Center	1
+D006748	Hospital Departments
+18493642	D003518	Cyclopenthiazide	1
+D004232	Diuretics
+34214092	D047991	Clostridium sticklandii	1
+D006089	Gram-Negative Anaerobic Bacteria
+20690	null	Modafinil	1
+D064690	Wakefulness-Promoting Agents
+18493654	D011139	Polythiazide	1
+D049993	Sodium Chloride Symporter Inhibitors
+14061792	D056464	Histone Deacetylase 2	1
+D001051	Apoenzymes
+16658662	D007012	Hypopharyngeal Neoplasms	1
+D004194	Disease
+14774513	D050485	GABA Plasma Membrane Transport Proteins	1
+D010940	Plant Proteins
+42193326	null	JNJ-26489112	1
+D000927	Anticonvulsants
+34214145	D048010	Clostridium tertium	1
+D006089	Gram-Negative Anaerobic Bacteria
+1044750	D055167	Dekkera	1
+D016988	Gram-Positive Asporogenous Rods, Irregular
+5837072	null	ETH-LAD	1
+D006213	Hallucinogens
+10072356	null	Los Robles Hospital & Medical Center	1
+D006748	Hospital Departments
+2273573	null	Clofarabine	1
+D011684	Purine Nucleosides
+4084013	null	Cooper University Hospital	1
+D006784	Hospitals, Teaching
+14758198	D001052	Apoferritins	1
+D010940	Plant Proteins
+5837112	null	PRO-LAD	1
+D006213	Hallucinogens
+684347	D000580	Amido Black	1
+D000596	Amino Acids
+553276	D005686	Galactokinase	1
+D001051	Apoenzymes
+1167677	null	Tegaserod	1
+D018490	Serotonin Agents
+24744256	null	St. Mary's of Michigan Medical Center	1
+D006748	Hospital Departments
+4196406	null	Western Infirmary	1
+D006784	Hospitals, Teaching
+5837132	null	BU-LAD	1
+D006213	Hallucinogens
+7819612	null	Whitchurch Hospital	1
+D006778	Hospitals, Psychiatric
+12136805	null	Purging disorder	1
+D001068	Eating Disorders
+2191722	null	Endoglycosidase	1
+D001051	Apoenzymes
+2642287	null	Rex Hospital	1
+D006748	Hospital Departments
+37235	D012952	Societies	1
+D006127	Group Structure
+15356278	null	Resin-retained bridge	1
+D003829	Denture, Partial
+17887977	null	Sternal fracture	1
+D050723	Fractures, Bone
+3135552	D044622	Dental Pellicle	1
+D010940	Plant Proteins
+1364354	D011486	Protein C	1
+D014812	Vitamin K
+4036673	D010394	Penbutolol	1
+D013566	Sympathomimetics
+61836	D014210	Treponema pallidum	1
+D013145	Spirochaetales Infections
+11211151	null	Capital Regional Medical Center	1
+D006748	Hospital Departments
+5509522	D052336	Proglucagon	1
+D010940	Plant Proteins
+22655379	null	St Ann's Hospital	1
+D006748	Hospital Departments
+12767643	null	Clebopride	1
+D012559	Schizophrenia
+6615460	D005448	Fluocortolone	1
+D005938	Glucocorticoids
+1585573	null	Meloxicam	1
+D000894	Anti-Inflammatory Agents, Non-Steroidal
+4534702	null	Descending palatine artery	1
+D001158	Arteries
+18420149	null	Matchbox sign	1
+D011570	Psychiatry
+1683900	D005036	Ethylmorphine	1
+D009021	Morphine Dependence
+4485565	null	Ascending pharyngeal artery	1
+D001158	Arteries
+8016328	D005912	Gliotoxin	1
+D013457	Sulfur Compounds
+9703881	D037701	Pulmonary Surfactant-Associated Protein B	1
+D010940	Plant Proteins
+9703885	D037721	Pulmonary Surfactant-Associated Protein C	1
+D010940	Plant Proteins
+184783	null	Frotteurism	1
+D010262	Paraphilias
+9298680	D007404	Intervertebral Disc Chemolysis	1
+D006694	Holistic Health
+16921043	null	JWH-147	1
+D000698	Analgesia
+23294422	D011764	Pyrrolnitrin	1
+D000935	Antifungal Agents
+26112473	null	Butabika Hospital	1
+D006748	Hospital Departments
+12772	D012134	Respiratory Protective Devices	1
+D008397	Masks
+176613	null	Boysenberry	1
+D003433	Crosses, Genetic
+7000551	null	Stobhill Hospital	1
+D010824	Physicians' Offices
+569840	null	Mechanoreceptor	1
+D011984	Sensory Receptor Cells
+569842	D013697	Thermosensing	1
+D011984	Sensory Receptor Cells
+9925108	D015260	Neprilysin	1
+D015032	Zinc
+11825666	null	Pubovesical ligament	1
+D008022	Ligaments
+22629804	null	Mongomo Provincial Hospital	1
+D006748	Hospital Departments
+2134539	null	Aquagenic pruritus	1
+D012876	Skin Diseases, Parasitic
+14733839	null	Telbivudine	1
+D000998	Antiviral Agents
+10613266	null	Cavitary pneumonia	1
+D004194	Disease
+1028627	null	Diisopropyltryptamine	1
+D006213	Hallucinogens
+2175523	null	Glucomannan	1
+D005503	Food Additives
+5206565	null	Woolmanhill Hospital	1
+D006748	Hospital Departments
+4297266	null	Padimate O	1
+D009930	Organic Chemicals
+414259	D014247	Trichomonas Vaginitis	1
+D006089	Gram-Negative Anaerobic Bacteria
+4297269	null	Padimate A	1
+D009930	Organic Chemicals
+23507511	null	Barlow Respiratory Hospital	1
+D006748	Hospital Departments
+537147	D006392	Hemangioma, Cavernous	1
+D020786	Hemangioma, Cavernous, Central Nervous System
+21451342	null	Hurley Medical Center	1
+D006784	Hospitals, Teaching
+4485716	null	Superior pancreaticoduodenal artery	1
+D001158	Arteries
+20714092	null	Phymatous rosacea	1
+D012871	Skin Diseases
+2282113	null	Naringenin	1
+D044950	Flavanones
+30872201	null	Fear of flying	1
+D005239	Fear
+12767889	null	Avanafil	1
+D058986	Phosphodiesterase 5 Inhibitors
+5583506	D051597	Hippocalcin	2
+D010940	Plant Proteins
+D017610	Calcium Compounds
+12767916	null	Propiverine	1
+D018680	Cholinergic Antagonists
+6394545	null	Propiomazine	1
+D010640	Phenothiazines
+25391795	null	Chicuque Rural Hospital	1
+D006748	Hospital Departments
+14734022	null	Interferon alfa 2b	1
+D000998	Antiviral Agents
+422600	null	Patau syndrome	1
+D013577	Syndrome
+6582985	D013442	Sulfinpyrazone	1
+D014528	Uricosuric Agents
+14529239	null	Zoophilia	1
+D010262	Paraphilias
+660187	null	Tracheal tube	1
+D057785	Catheters
+18658020	null	Fludorex	1
+D018758	Stimulants, Historical
+1258217	D019895	Transposases	1
+D001051	Apoenzymes
+9057007	D010365	Patulin	1
+D015651	Mycotoxicosis
+684786	D010493	Pericarditis	1
+D007249	Inflammation
+12636917	null	Flosequinan	1
+D024841	Fluoroquinolones
+7418623	D007975	Leukotriene B4	1
+D018077	Receptors, Leukotriene
+14725896	D004701	Endocrine Gland Neoplasms	1
+D009385	Neoplastic Processes
+39269130	D011623	gamma-Glutamyl Hydrolase	1
+D001051	Apoenzymes
+11047700	D053454	Caspase 12	1
+D010940	Plant Proteins
+2511645	null	Ure2p	1
+D015003	Yeasts
+11186977	D010249	Parametritis	1
+D007249	Inflammation
+1430307	null	Nicotine patch	1
+D057968	Transdermal Patch
+3958918	null	Anococcygeal nerve	1
+D009411	Nerve Endings
+13300522	null	Norfenefrine	1
+D001688	Biological Products
+10588986	null	Olive View – UCLA Medical Center	1
+D006748	Hospital Departments
+152389	D016572	Cyclosporine	1
+D006844	Hydrocarbons, Cyclic
+8663894	null	Mesembrine	1
+D000470	Alkaloids
+6046521	null	Tenecteplase	1
+D010959	Tissue Plasminogen Activator
+43512664	null	Legacy Mount Hood Medical Center	1
+D006748	Hospital Departments
+2624997	D004763	Glucagon-Like Peptides	1
+D010461	Peptones
+54114	null	Vitamin A	1
+D004952	Esters
+10670955	null	St. Joseph's Hospital and Medical Center	1
+D006748	Hospital Departments
+20181869	D044066	Cardiobacterium	1
+D019688	Gram-Negative Oxygenic Photosynthetic Bacteria
+11793262	null	Phoma destructiva	1
+D000908	Antibodies, Fungal
+4535159	null	Ascending palatine artery	1
+D001158	Arteries
+12830869	null	Cloricromen	1
+D001792	Blood Platelets
+1692549	null	Clavicle fracture	1
+D050723	Fractures, Bone
+32904081	null	Heat intolerance	1
+D012816	Signs and Symptoms
+447382	null	Bates method	1
+D006694	Holistic Health
+10245016	D019012	Antigens, CD29	1
+D039661	Integrin beta3
+39850906	null	Osawatomie State Hospital	1
+D006778	Hospitals, Psychiatric
+6796196	null	Trichoderma viride	1
+D000908	Antibodies, Fungal
+6796215	null	Trichoderma harzianum	1
+D000908	Antibodies, Fungal
+20362170	D007480	Iopanoic Acid	1
+D017613	Iodine Compounds
+2044863	D019357	Potassium Citrate	1
+D011188	Potassium
+3158980	null	Anterior longitudinal ligament	1
+D008022	Ligaments
+6607815	null	Fotemustine	1
+D009607	Nitrosourea Compounds
+7336912	D048056	Mitogen-Activated Protein Kinase 9	1
+D001051	Apoenzymes
+2937810	null	Whipps Cross University Hospital	1
+D009313	National Health Programs
+1703421	null	Methyl nitrite	1
+D009930	Organic Chemicals
+2479096	null	Peromyscus maniculatus	1
+D012377	Rodentia
+28709881	null	University Teaching Hospital	1
+D006748	Hospital Departments
+1455098	D010879	Piperazines	1
+D009930	Organic Chemicals
+10810380	null	Propylamphetamine	1
+D011619	Psychotropic Drugs
+12932109	null	Omoconazole	1
+D004149	Dioxoles
+1700882	D047029	Lactams, Macrocyclic	1
+D006844	Hydrocarbons, Cyclic
+6050838	null	Dirithromycin	1
+D018942	Macrolides
+863748	null	CP 55,940	1
+D063388	Endocannabinoids
+12768289	null	Phenglutarimide	1
+D018680	Cholinergic Antagonists
+12932135	null	Bifonazole	1
+D007093	Imidazoles
+18994221	D006748	Hospital Departments	1
+D063127	Secondary Care
+1733679	D009025	Morpholines	2
+D009930	Organic Chemicals
+D026923	Amino Acid Transport Systems, Basic
+29226037	null	Conjunctival suffusion	1
+D005123	Eye
+12637239	null	Pridinol	1
+D009125	Muscle Relaxants, Central
+8459338	null	Triclofos	2
+D006993	Hypnotics and Sedatives
+D011355	Prodrugs
+1979482	null	Natalizumab	1
+D061067	Antibodies, Monoclonal, Humanized
+12637285	null	Fazadinium bromide	1
+D009125	Muscle Relaxants, Central
+12563559	null	St. Cloud Hospital	1
+D006748	Hospital Departments
+7337068	D051842	Olfactory Marker Protein	1
+D010940	Plant Proteins
+767086	D003367	Cotinine	1
+D000470	Alkaloids
+2585714	null	Platinosis	1
+D012882	Skin Tests
+6460534	null	Akron Children's Hospital	1
+D006776	Hospitals, Pediatric
+398459	D002672	Child, Gifted	1
+D007360	Intelligence
+6616211	D009639	Norethandrolone	1
+D045930	Anabolic Agents
+169118	D010435	Pepsinogens	1
+D001051	Apoenzymes
+1873055	null	Royal Berkshire Hospital	1
+D009313	National Health Programs
+12932272	null	Azanidazole	1
+D009593	Nitroimidazoles
+29856945	null	Disc protrusion	1
+D004194	Disease
+29734070	null	Juravinski Hospital	1
+D006748	Hospital Departments
+18199735	D001085	Arabinofuranosylcytosine Triphosphate	1
+D033704	Nucleotide Transport Proteins
+13951860	null	Proheptazine	1
+D000701	Analgesics, Opioid
+570556	D008314	Malonates	2
+D001667	Binding, Competitive
+D001667	Binding, Competitive
+24799381	D002742	Chlorphenamidine	1
+D056810	Acaricides
+24843459	null	Kettering General Hospital	1
+D009313	National Health Programs
+7337156	D014668	Vasotocin	1
+D009842	Oligopeptides
+4027591	null	Butamben	1
+D000779	Anesthetics, Local
+464073	D018859	Hair Follicle	1
+D008322	Mammals
+14568994	null	SL-651,498	1
+D014151	Anti-Anxiety Agents
+5280980	null	Bentiromide	1
+D010461	Peptones
+2864344	D013049	Spectrin	1
+D003599	Cytoskeleton
+5272794	null	Huddersfield Royal Infirmary	1
+D006748	Hospital Departments
+9811171	D000301	Adosterol	1
+D017613	Iodine Compounds
+31495397	null	Ringerike Hospital	1
+D006748	Hospital Departments
+4348116	null	Middle superior alveolar nerve	1
+D009411	Nerve Endings
+39900413	null	Choroidal fissure cyst	1
+D003560	Cysts
+31642892	null	Leukotriene C4 synthase deficiency	1
+D008661	Metabolism, Inborn Errors
+529677	D010749	Phosphoprotein Phosphatases	1
+D001051	Apoenzymes
+3208464	null	MammaPrint	1
+D003933	Diagnosis
+5813522	D006517	Murine hepatitis virus	1
+D014771	Virion
+2569495	null	Women & Children's Hospital of Buffalo	1
+D006776	Hospitals, Pediatric
+12776738	null	Lakeridge Health Port Perry	1
+D006748	Hospital Departments
+17134892	null	Broughton Hospital	1
+D006778	Hospitals, Psychiatric
+18486585	null	Trimazosin	1
+D013565	Sympatholytics
+8758154	D001599	Berberine	1
+D000644	Quaternary Ammonium Compounds
+21501254	null	Trichoepithelioma	1
+D009385	Neoplastic Processes
+1987914	null	Oscillopsia	1
+D014796	Visual Perception
+1627473	null	Anthophyllite	1
+D017636	Asbestos, Amphibole
+11520228	D009384	Paraneoplastic Endocrine Syndromes	1
+D013577	Syndrome
+11539806	D051042	Glutamate Formimidoyltransferase	1
+D008780	Methyltransferases
+521571	D007827	Laryngitis	1
+D007249	Inflammation
+11162981	null	Complement deficiency	1
+D007153	Immunologic Deficiency Syndromes
+30463334	null	Teleopsia	1
+D014796	Visual Perception
+234857	null	Yawn	1
+D012018	Reflex
+7525740	D000185	Actinin	1
+D008841	Actin Cytoskeleton
+10327407	D004800	Enzymes, Immobilized	1
+D001051	Apoenzymes
+24655227	D046891	Cylindrospermopsis	1
+D010933	Plankton
+152958	D006593	Hexokinase	1
+D001051	Apoenzymes
+32789895	D012385	Ronidazole	1
+D000981	Antiprotozoal Agents
+1267081	D017257	Ramipril	1
+D000806	Angiotensin-Converting Enzyme Inhibitors
+3413387	null	Asian Semi-longhair	1
+D002415	Cats
+12764056	null	Brallobarbital	1
+D001463	Barbiturates
+31692179	null	Panner disease	1
+D055035	Spinal Osteochondrosis
+4674968	null	Rhinolith	1
+D020347	Lithiasis
+17257897	null	AM-411	1
+D000698	Analgesia
+21057904	null	Japanese encephalitis vaccine	1
+D014612	Vaccines
+12350900	null	UF Health Jacksonville	1
+D006784	Hospitals, Teaching
+26301881	null	Odontogenic infection	1
+D007239	Infection
+4928954	null	Tricine	1
+D009930	Organic Chemicals
+5297595	null	Basal vein	1
+D014680	Veins
+12875230	D045469	Chrysobalanaceae	1
+D052179	Antigens, Plant
+9262565	D007524	Isodesmosine	1
+D008239	Lysine
+40957416	null	Charnock Hospital	1
+D006748	Hospital Departments
+42186219	null	Peanut butter test	1
+D003955	Diagnostic Tests, Routine
+2242030	null	Overactive disorder associated with mental retardation and stereotyped movements	1
+D002659	Child Development Disorders, Pervasive
+21116410	null	Epstein–Barr virus vaccine	1
+D014612	Vaccines
+31086081	null	Hospital de Clínicas "José de San Martín"	1
+D006784	Hospitals, Teaching
+26744324	null	AH-7921	1
+D000701	Analgesics, Opioid
+14050220	null	Clonitazene	1
+D000701	Analgesics, Opioid
+17258000	null	Mirwais Hospital	1
+D006748	Hospital Departments
+13555225	null	Florida State Hospital	1
+D006748	Hospital Departments
+14120476	D020569	Proto-Oncogene Proteins c-rel	1
+D010940	Plant Proteins
+34068001	null	Ectopic testis	1
+D013737	Testis
+1078828	D011431	Dextropropoxyphene	1
+D000698	Analgesia
+5174839	null	Iliac fascia	1
+D005205	Fascia
+36050488	null	Sir Sunderlal Hospital	1
+D006784	Hospitals, Teaching
+10698935	null	Providence Saint Joseph Medical Center	1
+D006748	Hospital Departments
+4036167	null	1,4-Dimethoxybenzene	1
+D009930	Organic Chemicals
+12826210	null	Camborne Redruth Community Hospital	1
+D009313	National Health Programs
+10081896	null	Southern New Hampshire Medical Center	1
+D006748	Hospital Departments
+33240688	null	Tums	1
+D000863	Antacids
+22131	D059206	Natural Gas	1
+D006838	Hydrocarbons
+30750328	D046975	Clostridium chauvoei	1
+D006089	Gram-Negative Anaerobic Bacteria
+21395077	null	Shave biopsy	1
+D001706	Biopsy
+300678	D004984	Ethchlorvynol	1
+D006993	Hypnotics and Sedatives
+21747336	D004478	Ectoparasitic Infestations	1
+D010271	Parasites
+12285578	null	Antimony pentasulfide	1
+D007287	Inorganic Chemicals
+5396112	null	Supraorbital artery	1
+D001158	Arteries
+4535954	D002953	Citrinin	1
+D015651	Mycotoxicosis
+9041558	null	Ehrlichiosis	1
+D017282	Tick-Borne Diseases
+22189724	null	Windhoek Central Hospital	1
+D006779	Hospitals, Public
+6658330	null	Gestodene	1
+D011372	Progestins
+34133663	null	Hôpital Saint-Luc	1
+D006748	Hospital Departments
+16946852	null	Rabies	1
+D014771	Virion
+2174577	null	FOLFOX	1
+D000971	Antineoplastic Combined Chemotherapy Protocols
+1308330	D013937	Thymidine Kinase	1
+D001051	Apoenzymes
+4142023	D001865	Bongkrekic Acid	1
+D044882	Glucose Metabolism Disorders
+5953219	D055677	Refeeding Syndrome	1
+D013577	Syndrome
+8517316	null	Picolinic acid	1
+D009930	Organic Chemicals
+546505	D005663	Furans	1
+D006574	Heterocyclic Compounds, 2-Ring
+6149836	D007540	Isonipecotic Acids	1
+D006574	Heterocyclic Compounds, 2-Ring
+21116621	null	Hookworm vaccine	1
+D014612	Vaccines
+20174546	D000501	Allylglycine	1
+D018684	Glycine Agents
+2176730	D029382	Dicarboxylic Acid Transporters	1
+D009930	Organic Chemicals
+10220496	D013834	Thiamine Pyrophosphatase	1
+D001051	Apoenzymes
+153315	null	Leek	1
+D014674	Vegetable Proteins
+27170542	null	Limb infarction	1
+D007238	Infarction
+17337981	null	AM-855	1
+D000698	Analgesia
+9008884	D047630	Depsipeptides	1
+D010461	Peptones
+5674742	null	Benzamycin	1
+D055553	Prescription Drugs
+1971959	null	Norrie disease	1
+D030342	Genetic Diseases, Inborn
+3069688	null	Bombykol	1
+D049049	Pheromones, Human
+5347069	null	Posaconazole	1
+D014230	Triazoles
+1832706	D010389	Pemoline	1
+D018758	Stimulants, Historical
+13950701	null	Phenampromide	1
+D000701	Analgesics, Opioid
+9205515	D010088	Oxidoreductases	1
+D001051	Apoenzymes
+423693	null	Cremaster muscle	1
+D009124	Muscle Proteins
+947987	null	Etiracetam	1
+D018697	Nootropic Agents
+1046292	D012478	Salmonella Food Poisoning	1
+D007239	Infection
+2021147	D000448	Aldicarb	1
+D002802	Cholinesterases
+4937501	null	Rimexolone	1
+D005938	Glucocorticoids
+5723938	D001104	Arbutin	1
+D013865	Thioglycosides
+2029349	null	Arithmomania	1
+D001523	Mental Disorders
+30283564	null	Berrywood Hospital	1
+D006778	Hospitals, Psychiatric
+3205426	null	Temocillin	1
+D001618	beta-Lactamases
+17094447	null	DPI-221	1
+D000701	Analgesics, Opioid
+571196	D032661	Cordyceps	1
+D000908	Antibodies, Fungal
+26982208	D039904	Pluripotent Stem Cells	1
+D022082	Cellular Structures
+603973	null	Heyde's syndrome	1
+D013577	Syndrome
+25000716	D001392	Azocines	1
+D006574	Heterocyclic Compounds, 2-Ring
+235343	null	Potassium hydroxide	1
+D007287	Inorganic Chemicals
+2717521	null	Hexazinone	1
+D009930	Organic Chemicals
+24696668	D030283	Epsilonretrovirus	1
+D012191	Retroviridae Proteins
+767839	D013539	Simian virus 40	1
+D004266	DNA Virus Infections
+948073	null	Nefiracetam	1
+D018697	Nootropic Agents
+948081	null	Rolziracetam	1
+D018697	Nootropic Agents
+17921910	null	Gregg Gonsalves	1
+D015488	HIV Antigens
+10082168	null	Sanford USD Medical Center	1
+D006748	Hospital Departments
+2045827	null	Symphysis	1
+D002356	Cartilage
+17577873	null	Bergan Mercy Medical Center	1
+D006748	Hospital Departments
+2226076	null	Ballarat Base Hospital	1
+D006748	Hospital Departments
+3315613	D004061	Diflunisal	1
+D020156	Salicylic Acid
+17258404	null	Pramiconazole	1
+D014230	Triazoles
+3045296	null	Hillingdon Hospital	1
+D009313	National Health Programs
+5134271	null	Stertor	1
+D012135	Respiratory Sounds
+2357186	null	Hemifacial microsomia	1
+D000013	Congenital Abnormalities
+7968709	null	Queen's Hospital	1
+D006748	Hospital Departments
+31209420	null	Clinique Ambroise Paré	1
+D006748	Hospital Departments
+22180856	null	Cottage Medi-Clinic	1
+D016304	Hospitals, Private
+20633556	null	Trichophyton tonsurans	1
+D000908	Antibodies, Fungal
+2197838	D009804	Odontoblasts	1
+D022082	Cellular Structures
+20207589	null	MK-0249	1
+D006633	Histamine Antagonists
+13924339	null	Allylprodine	1
+D000701	Analgesics, Opioid
+10426365	D014153	Transaldolase	1
+D001051	Apoenzymes
+23582722	null	Abietic acid dermatitis	1
+D009783	Dermatitis, Occupational
+1300485	D003893	Desmin	1
+D010940	Plant Proteins
+1300486	D014746	Vimentin	1
+D010940	Plant Proteins
+55313	D012882	Skin Tests	1
+D006967	Hypersensitivity
+456728	D008405	Massage	1
+D006694	Holistic Health
+10713113	null	Lewis-Gale Medical Center	1
+D006748	Hospital Departments
+7551013	null	Milton Keynes University Hospital	1
+D006748	Hospital Departments
+7378982	null	Blepharochalasis	1
+D007249	Inflammation
+38451242	null	Claremont Hospital	1
+D016304	Hospitals, Private
+17094706	null	DPI-287	1
+D000701	Analgesics, Opioid
+22403124	null	Hôpital Saint-Louis	1
+D006748	Hospital Departments
+7772221	null	Cremasteric fascia	1
+D005205	Fascia
+63552	D034321	Hyperamylasemia	1
+D001051	Apoenzymes
+17070432	null	Pulmonary laceration	1
+D013898	Thoracic Injuries
+178254	null	Marquette General Hospital	1
+D006748	Hospital Departments
+3119184	D001447	Balantidiasis	1
+D011529	Protozoan Infections, Animal
+12515412	null	Rolando fracture	1
+D050723	Fractures, Bone
+32544854	null	Tibial plateau fracture	1
+D050723	Fractures, Bone
+15030359	D056664	Cathepsin W	1
+D010940	Plant Proteins
+15104088	null	Streff syndrome	1
+D014796	Visual Perception
+19806301	null	Erythroplasia of Queyrat	1
+D018307	Neoplasms, Squamous Cell
+12744799	null	Elcatonin	1
+D002116	Calcitonin
+4495459	null	Trandolapril	1
+D000806	Angiotensin-Converting Enzyme Inhibitors
+21166180	null	Sandalwood oil	1
+D009822	Oils, Volatile
+11163749	D011266	Pregnancy-Associated Plasma Protein-A	1
+D010940	Plant Proteins
+4839537	null	State Hospital	1
+D006778	Hospitals, Psychiatric
+7379092	D003607	Dacryocystitis	1
+D007239	Infection
+10008735	null	Doernbecher Children's Hospital	1
+D006776	Hospitals, Pediatric
+12310692	null	2-Nitroaniline	1
+D009930	Organic Chemicals
+7829669	D050034	Antidiuretic Agents	1
+D054045	Biological Warfare Agents
+23484584	null	Betamethasone 17-valerate	1
+D011278	Pregnanes
+571570	D018753	Diet, Protein-Restricted	1
+D004038	Diet, Reducing
+4036791	D011222	Prazepam	1
+D011355	Prodrugs
+2078908	D012398	Ross River virus	1
+D009033	Culicidae
+32340163	D046973	Clostridium cellulolyticum	1
+D006089	Gram-Negative Anaerobic Bacteria
+9124038	null	Aselizumab	1
+D007166	Immunosuppressive Agents
+1833161	D009963	Orotic Acid	1
+D006574	Heterocyclic Compounds, 2-Ring
+9844940	null	Princess Christian Maternity Hospital	1
+D006748	Hospital Departments
+1611986	null	Trolamine salicylate	1
+D009930	Organic Chemicals
+3733715	D010073	Oxamniquine	1
+D000871	Anthelmintics
+1300692	null	Nelarabine	2
+D050256	Antimitotic Agents
+D011684	Purine Nucleosides
+28940514	null	Midlothian Community Hospital	1
+D006764	Hospitals, Community
+9124076	null	Atorolimumab	1
+D007166	Immunosuppressive Agents
+3250413	null	Widened mediastinum	1
+D008477	Mediastinal Diseases
+13023471	null	Toledo Children's Hospital	1
+D006779	Hospitals, Public
+211191	D054556	Venous Thromboembolism	1
+D020246	Venous Thrombosis
+784642	D010092	Oximetry	1
+D019060	Minimally Invasive Surgical Procedures
+1497350	null	Suprascapular nerve	1
+D009411	Nerve Endings
+1227022	D017638	Asbestos, Crocidolite	1
+D017670	Sodium Compounds
+38173059	null	Gracie Square Hospital	1
+D006778	Hospitals, Psychiatric
+63764	D004403	Dysentery	1
+D007249	Inflammation
+30152982	D004258	DNA Polymerase III	1
+D001051	Apoenzymes
+1988889	null	Lipstick	1
+D003358	Cosmetics
+17955098	null	Sequoia Hospital	1
+D006748	Hospital Departments
+2144540	D014112	Toxaphene	1
+D010575	Pesticides
+22436126	D041841	Bradyrhizobiaceae	1
+D005195	Family Relations
+13318456	null	Ocinaplon	1
+D014151	Anti-Anxiety Agents
+2021714	D052982	Beauveria	1
+D000908	Antibodies, Fungal
+4020563	null	Foot drop	1
+D020234	Gait Ataxia
+842080	D005465	Fluorocarbon Polymers	1
+D005466	Fluorocarbons
+16243053	null	CVPH Medical Center	1
+D006748	Hospital Departments
+14481776	null	Cerebritis	1
+D007239	Infection
+29596019	null	Cysview	1
+D061848	Optical Imaging
+1448322	null	Sodium bromide	1
+D007287	Inorganic Chemicals
+12417415	null	Schizothymia	1
+D013694	Temperament
+10993389	D017997	Leukotriene C4	1
+D018077	Receptors, Leukotriene
+32037273	null	Dental subluxation	1
+D014082	Tooth Fractures
+7379354	D001578	Benzopyrans	1
+D011083	Polycyclic Compounds
+17242529	null	CP 47,497	1
+D063388	Endocannabinoids
+530862	null	Benzocaine	1
+D000779	Anesthetics, Local
+7027124	D062793	Occludin	1
+D010940	Plant Proteins
+24508863	null	Pomerado Hospital	1
+D006748	Hospital Departments
+522690	D010070	Oxalates	1
+D019163	Reducing Agents
+14719430	D019797	3-Iodobenzylguanidine	1
+D007553	Isotope Labeling
+514509	null	Vaginal lubrication	1
+D008153	Lubrication
+14260686	D037483	Galectin 1	1
+D010940	Plant Proteins
+17208397	null	Farglitazar	1
+D047492	Peroxisome Proliferator-Activated Receptors
+26106329	null	Cervical pregnancy	1
+D011274	Pregnancy, Tubal
+23484895	D009158	Mycobacillin	1
+D000935	Antifungal Agents
+14547429	D003179	Complement C3b	1
+D010940	Plant Proteins
+14416359	null	Atamestane	1
+D047072	Aromatase Inhibitors
+1128939	D002747	Chlorpropamide	1
+D004350	Drug Residues
+13933039	null	Meprodine	1
+D000701	Analgesics, Opioid
+31836584	null	Adenosis	1
+D004194	Disease
+3168771	D005469	Fluorometholone	1
+D000305	Adrenal Cortex Hormones
+2308615	null	Anterior tibial vein	1
+D014680	Veins
+6273544	null	Mayo General Hospital	1
+D006748	Hospital Departments
+1145355	D013944	Thymolphthalein	1
+D026922	Amino Acid Transport Systems, Acidic
+2955804	null	Keratomalacia	1
+D005136	Eye Proteins
+7330356	D020801	Receptor, Ciliary Neurotrophic Factor	1
+D010940	Plant Proteins
+5995082	null	Carolinas Healthcare System	1
+D009939	Organizations, Nonprofit
+9461413	null	ABT-239	1
+D018100	Receptors, Histamine H3
+21256786	null	Silver Hill Hospital	1
+D006778	Hospitals, Psychiatric
+416351	D041441	Retinoschisis	1
+D005136	Eye Proteins
+6052448	D015638	Cytochalasin D	1
+D000470	Alkaloids
+26958462	null	Littleton Adventist Hospital	1
+D006748	Hospital Departments
+8075913	D045247	Chryseobacterium	1
+D019688	Gram-Negative Oxygenic Photosynthetic Bacteria
+15145617	D010425	Pentolinium Tartrate	1
+D005724	Ganglia
+13892245	null	Coronary stent	1
+D015607	Stents
+6552224	null	Ethadione	1
+D000927	Anticonvulsants
+14580386	null	Transperineal biopsy	1
+D001706	Biopsy
+23657132	null	Idiopathic facial aseptic granuloma	1
+D012871	Skin Diseases
+13056687	null	Cefetamet	1
+D002511	Cephalosporins
+38443696	null	Surgimed Hospital	1
+D016304	Hospitals, Private
+14580404	null	Transrectal biopsy	1
+D001706	Biopsy
+1833656	null	Imperforate hymen	1
+D000013	Congenital Abnormalities
+6052539	null	Bow and arrow sign	1
+D004724	Endoscopy
+29039293	null	Princess Anne Hospital	1
+D006771	Hospitals, Maternity
+29186750	D000773	Anesthesia, Obstetrical	1
+D000777	Anesthetics
+1342143	null	Nova Scotia Hospital	1
+D006778	Hospitals, Psychiatric
+24976067	null	Cardiac ventriculography	1
+D003952	Diagnostic Imaging
+6757063	null	Cervarix	1
+D014612	Vaccines
+6552264	null	Rufinamide	1
+D000927	Anticonvulsants
+10762958	D006912	Hydroxyquinolines	1
+D009930	Organic Chemicals
+35920598	null	Enlarged uterus	1
+D012816	Signs and Symptoms
+1391326	D001232	Aspergillus fumigatus	1
+D000908	Antibodies, Fungal
+170718	D028222	Picea	1
+D014197	Trees
+36362980	null	Megaduodenum	1
+D030342	Genetic Diseases, Inborn
+7330539	D020904	Glia Maturation Factor	1
+D020932	Nerve Growth Factor
+6911	D002482	Cellulose	1
+D009930	Organic Chemicals
+16636681	null	RB-101	1
+D011355	Prodrugs
+11393804	D009953	Ornithine-Oxo-Acid Transaminase	1
+D001051	Apoenzymes
+14031629	null	PEPAP	1
+D000701	Analgesics, Opioid
+13056788	null	Cefazedone	1
+D002511	Cephalosporins
+23485206	D013720	Tenuazonic Acid	1
+D015651	Mycotoxicosis
+23485210	D010398	Penicillic Acid	1
+D015651	Mycotoxicosis
+18307875	null	Kernohan's notch	1
+D065850	Cerebral Peduncle
+2161447	D016593	Terfenadine	1
+D011355	Prodrugs
+5217067	D000165	Acridine Orange	1
+D009930	Organic Chemicals
+40852281	D017937	Cytochrome d Group	1
+D010940	Plant Proteins
+38394683	null	Nu-nu	1
+D011619	Psychotropic Drugs
+29875006	null	Community Hospital North	1
+D006748	Hospital Departments
+30088002	null	Fish-eye disease	1
+D030342	Genetic Diseases, Inborn
+39747	D004943	Esophagogastric Junction	1
+D009124	Muscle Proteins
+2202457	null	Cilostazol	1
+D010726	Phosphodiesterase Inhibitors
+9755490	D053399	Apolipoproteins D	1
+D010940	Plant Proteins
+3234662	D011436	Spermidine Synthase	1
+D001051	Apoenzymes
+2571116	D007592	Joint Diseases	1
+D004194	Disease
+14809969	D017318	Annexin A3	1
+D010940	Plant Proteins
+27802483	null	Aut Even Hospital	1
+D016304	Hospitals, Private
+293748	null	Greater occipital nerve	1
+D013127	Spinal Nerves
+2120575	D013573	Synaptonemal Complex	1
+D010940	Plant Proteins
+5987201	D010172	Palmitoylcarnitine	1
+D004952	Esters
+916354	D053551	Keratin-12	1
+D010940	Plant Proteins
+293763	D010791	Phrenic Nerve	1
+D009411	Nerve Endings
+916361	D053534	Keratin-9	1
+D010940	Plant Proteins
+24288140	null	Heat edema	1
+D012871	Skin Diseases
+547735	D020772	Internal Capsule	1
+D066127	White Matter
+6028200	null	Rose hip seed oil	1
+D010938	Plant Oils
+13351850	null	Imidazenil	2
+D014151	Anti-Anxiety Agents
+D011963	Receptors, GABA-A
+18521003	null	Parathyroid adenoma	1
+D000236	Adenoma
+916398	D053536	Keratin-16	1
+D010940	Plant Proteins
+334768	D004748	Entamoeba histolytica	1
+D006089	Gram-Negative Anaerobic Bacteria
+916403	D053569	Keratin-15	1
+D010940	Plant Proteins
+228282	null	Brachioradialis	1
+D009124	Muscle Proteins
+228284	D011826	Radial Nerve	1
+D009411	Nerve Endings
+23501	D011198	Solanum tuberosum	1
+D013213	Starch
+169123	D014510	Urease	1
+D010940	Plant Proteins
+16374761	D010893	Piromidic Acid	1
+D024841	Fluoroquinolones
+5381102	null	Ammonium ferric citrate	1
+D005503	Food Additives
+9772018	D052699	Kobuvirus	1
+D014771	Virion
+6241286	D006783	Hospitals, State	1
+D006748	Hospital Departments
+2472971	null	Apical dendrite	1
+D050091	Dendrimers
+16374797	D010093	Oxolinic Acid	1
+D024841	Fluoroquinolones
+15236111	D060752	Fetuin-B	1
+D010940	Plant Proteins
+89111	D007292	Inosine Nucleotides	1
+D009705	Nucleosides
+21537967	D018205	Neoplasms, Adipose Tissue	1
+D009385	Neoplastic Processes
+32652316	null	Chorangiosis	1
+D010926	Placental Hormones
+2472991	null	Basal dendrite	1
+D050091	Dendrimers
+26500128	D047030	Sericins	1
+D010940	Plant Proteins
+20110387	null	Flexion teardrop fracture	1
+D050723	Fractures, Bone
+6741045	D017493	Antigens, CD45	1
+D001051	Apoenzymes
+6773815	null	Union General Hospital	1
+D006748	Hospital Departments
+5012564	null	Cruciate anastomosis	1
+D001163	Arteriovenous Anastomosis
+14400598	null	Allergic response	1
+D006967	Hypersensitivity
+13433948	null	Janeway Children's Health and Rehabilitation Centre	1
+D006776	Hospitals, Pediatric
+21281893	null	Macrocin	1
+D018942	Macrolides
+18926097	null	Clofilium	1
+D000889	Anti-Arrhythmia Agents
+5512301	null	Levomethorphan	1
+D000701	Analgesics, Opioid
+26680437	null	Tulane Medical Center	1
+D006748	Hospital Departments
+13565049	null	Metazocine	1
+D000701	Analgesics, Opioid
+14400636	null	ALVAC-CEA vaccine	1
+D019496	Cancer Vaccines
+13540478	D011844	Radiesthesia	1
+D006694	Holistic Health
+9731207	D011951	Receptors, Complement	1
+D011955	Receptors, Drug
+547984	D008190	Lyases	1
+D001051	Apoenzymes
+5364886	null	Kolliphor EL	1
+D005079	Excipients
+547998	D006867	Hydrolases	1
+D001051	Apoenzymes
+9002147	null	Isoindoline	1
+D006574	Heterocyclic Compounds, 2-Ring
+32103589	D005008	Ethnopsychology	1
+D010380	Peer Review
+5921961	D051398	Aquaporin 1	1
+D010940	Plant Proteins
+27704498	null	Pericardial window	1
+D006348	Cardiac Surgical Procedures
+2112692	D002812	Chondroma	1
+D002356	Cartilage
+5151926	null	Posterior cutaneous nerve of forearm	1
+D009411	Nerve Endings
+31521980	D002717	Chlormerodrin	1
+D004232	Diuretics
+11361477	null	Rainbow Babies & Children's Hospital	1
+D006776	Hospitals, Pediatric
+2047180	null	Baby powder	1
+D001252	Astringents
+3890383	null	Caries vaccine	1
+D014612	Vaccines
+12352725	null	UF Health Shands Hospital	1
+D006784	Hospitals, Teaching
+4480224	D014702	Veratrine	1
+D013256	Steroids
+9002210	null	Oxindole	1
+D014364	Tryptophan
+2669812	null	Argatroban	1
+D000925	Anticoagulants
+5659894	D000691	Anabasine	1
+D011725	Pyridines
+2161913	D011349	Proctitis	1
+D007249	Inflammation
+10001662	D052698	Erbovirus	1
+D014771	Virion
+2088193	D014136	Tracheitis	1
+D007249	Inflammation
+11156742	D019056	Receptors, Polymeric Immunoglobulin	1
+D010940	Plant Proteins
+9133321	null	Galiximab	1
+D000911	Antibodies, Monoclonal
+2858269	D044004	Xanthones	1
+D009930	Organic Chemicals
+1826081	D014442	Monophenol Monooxygenase	1
+D003300	Copper
+4414759	null	Abbasi Shaheed Hospital	1
+D006784	Hospitals, Teaching
+9133355	null	Gomiliximab	1
+D000911	Antibodies, Monoclonal
+26705196	null	Encino Hospital Medical Center	1
+D006748	Hospital Departments
+5274932	null	Kirkwood Hospice	1
+D013727	Terminal Care
+6970677	null	Cutaneous nerve	1
+D009411	Nerve Endings
+5012793	null	Iliofemoral ligament	1
+D008022	Ligaments
+2399548	null	Trillium Health Centre	1
+D006748	Hospital Departments
+6249798	null	Gusperimus	1
+D007166	Immunosuppressive Agents
+13294928	null	Sarojini Devi Eye Hospital	1
+D006748	Hospital Departments
+5619026	null	Daytrana	1
+D057968	Transdermal Patch
+11885910	D066259	Betacellulin	1
+D010940	Plant Proteins
+31145322	null	Clinique Chiva	1
+D006748	Hospital Departments
+5635437	D055430	Bone Morphogenetic Protein 15	1
+D010940	Plant Proteins
+7003513	null	Kings County Hospital Center	1
+D006748	Hospital Departments
+40353156	null	UCSF Benioff Children's Hospital	1
+D006776	Hospitals, Pediatric
+4259210	D020232	Kluver-Bucy Syndrome	1
+D013577	Syndrome
+5758355	D014576	Uroporphyrinogen III Synthetase	1
+D001051	Apoenzymes
+37330345	D008757	Methylglucosides	1
+D009005	Monosaccharides
+1113514	D017570	MyoD Protein	1
+D010940	Plant Proteins
+1031605	null	Dyskinesia	1
+D012816	Signs and Symptoms
+507325	D051844	alpha-Synuclein	1
+D010940	Plant Proteins
+4685247	null	Posterior ethmoidal artery	1
+D001158	Arteries
+7454151	null	Mucous retention cyst	1
+D003560	Cysts
+9133516	null	Keliximab	1
+D000911	Antibodies, Monoclonal
+3299917	null	Candida parapsilosis	1
+D000908	Antibodies, Fungal
+16408019	null	Milton Hospital	1
+D006748	Hospital Departments
+9991417	D019909	Mycobacterium kansasii	1
+D000907	Antibodies, Bacterial
+43703783	null	Santiam Hospital	1
+D006748	Hospital Departments
+14622190	null	Hachimycin	1
+D011090	Polyenes
+14622192	D002174	Candicidin	1
+D000935	Antifungal Agents
+25296374	D011335	Proadifen	1
+D004791	Enzyme Inhibitors
+3374583	null	Nilutamide	1
+D000726	Androgen Antagonists
+5258749	null	Chase Farm Hospital	1
+D006748	Hospital Departments
+11673091	D045503	Bartonella bacilliformis	1
+D020564	Deltaproteobacteria
+2252299	D007547	Isosorbide	1
+D006574	Heterocyclic Compounds, 2-Ring
+40465	D055051	Salt-Tolerant Plants	1
+D052179	Antigens, Plant
+20618773	null	Microcheilia	1
+D000013	Congenital Abnormalities
+9133615	null	Vapaliximab	1
+D050506	Mutant Chimeric Proteins
+13835827	null	Skin biopsy	1
+D001706	Biopsy
+1605200	D017673	Sodium Chloride, Dietary	1
+D008903	Minerals
+1269331	D015736	Felodipine	1
+D002121	Calcium Channel Blockers
+16686682	null	Levophenacylmorphan	1
+D009019	Morphinans
+21093997	null	Sharp Memorial Hospital	1
+D006748	Hospital Departments
+14425722	D018150	Avipoxvirus	1
+D014771	Virion
+14349591	null	Hillsborough Hospital	1
+D006778	Hospitals, Psychiatric
+12271250	D008366	Mansonella	1
+D007303	Insect Vectors
+18038430	null	Azasetron	1
+D000932	Antiemetics
+6995619	null	Median arcuate ligament	1
+D008022	Ligaments
+5988005	D027261	Antigens, CD98	1
+D006023	Glycoproteins
+12041898	null	Pearson syndrome	1
+D028361	Mitochondrial Diseases
+36808	null	Heart	1
+D009124	Muscle Proteins
+10624692	null	Northridge Hospital Medical Center	1
+D006748	Hospital Departments
+13319867	null	Radium jaw	1
+D009784	Occupational Diseases
+26631882	null	Dickinson County Healthcare System	1
+D006748	Hospital Departments
+29581005	null	Poractant alfa	1
+D037661	Pulmonary Surfactant-Associated Proteins
+2449105	D016790	Plasmodium knowlesi	1
+D011323	Primates
+3120850	null	Chronic wound	1
+D022125	Lacerations
+6717142	null	Medrysone	1
+D000305	Adrenal Cortex Hormones
+16081338	null	Nicotine nasal spray	1
+D059085	Nasal Sprays
+12240	D017612	Gold Compounds	1
+D028561	Transition Elements
+25960162	null	Saints Medical Center	1
+D006748	Hospital Departments
+1425123	null	Contraceptive patch	1
+D057968	Transdermal Patch
+10993381	D017572	Leukotriene A4	1
+D018077	Receptors, Leukotriene
+11730667	null	Oleamide	1
+D000577	Amides
+3800812	null	Atrioventricular fistula	1
+D005402	Fistula
+13377265	null	Bixby Medical Center	1
+D006779	Hospitals, Public
+32509	D001205	Ascorbic Acid	1
+D003067	Coenzymes
+18505478	D014213	Tretoquinol	1
+D000318	Adrenergic beta-Agonists
+13377295	null	Defiance Regional Medical Center	1
+D006779	Hospitals, Public
+22994704	D019323	omega-N-Methylarginine	1
+D004791	Enzyme Inhibitors
+9690908	D011043	Pokeweed Mitogens	1
+D008934	Mitogens
+3858211	null	Hypergymnasia	1
+D001068	Eating Disorders
+9158436	null	Nicodicodeine	1
+D000701	Analgesics, Opioid
+982822	D003030	Coagulase	1
+D010940	Plant Proteins
+2359260	null	Military hospital	1
+D006748	Hospital Departments
+27680557	null	Skip lesion	1
+D022125	Lacerations
+3800884	null	Ayazi syndrome	1
+D013577	Syndrome
+1908538	D054706	Cyclic Nucleotide Phosphodiesterases, Type 5	1
+D001051	Apoenzymes
+212796	D008361	Mannosidases	1
+D002241	Carbohydrates
+13377348	null	Fostoria Community Hospital	1
+D006779	Hospitals, Public
+28081994	null	Killian–Jamieson diverticulum	1
+D004240	Diverticulum
+13377366	null	Herrick Medical Center	1
+D006779	Hospitals, Public
+16564060	null	JWH-081	1
+D000698	Analgesia
+5644128	null	Ben Taub Hospital	1
+D006748	Hospital Departments
+20097680	D015717	Peptide T	1
+D015488	HIV Antigens
+2684993	null	Avulsion fracture	1
+D050723	Fractures, Bone
+8593255	null	Globulomaxillary cyst	1
+D003560	Cysts
+11452265	D012258	Riboflavin Synthase	1
+D001051	Apoenzymes
+32623	D031669	Vanilla	1
+D005421	Flavoring Agents
+4489072	null	Perineal nerve	1
+D009411	Nerve Endings
+3153779	null	Monothematic delusion	1
+D003702	Delusions
+34504565	D003441	Crowding	1
+D010465	Perception
+13950848	null	Diampromide	1
+D000701	Analgesics, Opioid
+1392515	null	Human Genome Sciences	1
+D001691	Biological Therapy
+23232392	null	Adapalene/benzoyl peroxide	1
+D055553	Prescription Drugs
+13574036	null	Bisoxatin	1
+D054368	Laxatives
+6717341	null	Ciclesonide	1
+D005938	Glucocorticoids
+14794656	D005287	Ferredoxin-NADP Reductase	1
+D001051	Apoenzymes
+24481	D011533	Proviruses	1
+D014771	Virion
+548771	null	Lithium hydroxide	1
+D007287	Inorganic Chemicals
+13590437	null	Tenidap	1
+D016207	Cytokines
+286633	D010326	Pasteurella Infections	1
+D007239	Infection
+745387	D008294	Malathion	1
+D007306	Insecticides
+65452	D032429	Alpinia	1
+D027343	Rhizome
+32688	D056650	Vulvodynia	1
+D059350	Chronic Pain
+352184	null	Tincture	1
+D012996	Solutions
+10413387	null	O'Berry Neuro-Medical Center	1
+D006779	Hospitals, Public
+6717382	null	Tixocortol	1
+D000305	Adrenal Cortex Hormones
+12681160	D007556	Isoxsuprine	1
+D000318	Adrenergic beta-Agonists
+5226451	D003570	Cytidine Triphosphate	1
+D011741	Pyrimidine Nucleosides
+9412572	null	Mepolizumab	1
+D061067	Antibodies, Monoclonal, Humanized
+360414	D001326	Autogenic Training	1
+D012064	Relaxation Therapy
+50513	D008543	Melanins	1
+D003545	Cysteine
+12410863	null	Flumedroxone	1
+D000305	Adrenal Cortex Hormones
+41172982	null	Alaska Psychiatric Institute	1
+D006778	Hospitals, Psychiatric
+23142393	D003189	p-Methoxy-N-methylphenethylamine	1
+D011108	Polymers
+516377	D005452	Fluoresceins	1
+D005456	Fluorescent Dyes

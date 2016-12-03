@@ -1,0 +1,651 @@
+{% load staticfiles %}
+<html>
+
+<head>
+    <title>知识加工与服务云平台</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <!-- Bootstrap core CSS -->
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/font-awesome.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/bootstrap-editable.css' %}" rel="stylesheet">
+    <link href="{% static 'css/bootstrap-treeview.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/jqpagination.css' %}" rel="stylesheet">
+    <link href="{% static 'css/select2.css' %}" rel="stylesheet">
+    <link href="{% static 'css/select2-bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/edl.css' %}" rel="stylesheet" type="text/css">
+</head>
+
+<body onload="init()">
+    <nav class="navbar navbar-default navbar-static-top">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="/" class="navbar-brand">KS-Studio</a>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Language</a></li>
+                    <li><a href="http://10.214.129.99:5000/">Vision</a></li>
+                    <li><a href="http://10.214.155.238:8000/">Cross-media</a></li>
+                </ul>
+            </div>
+            <!--/.nav-collapse -->
+        </div>
+    </nav>
+    <div class="container">
+        <div id="main_tab">
+            <div class="main_nav_center">
+                <ul class="nav nav-tabs nav-tabs-responsive">
+                    <li class="active"><a href="#btn_medical" data-toggle="tab">Medical</a></li>
+                    <li><a href="#btn_cs" data-toggle="tab">Computer Science</a></li>
+                    <li><a href="#btn_env" data-toggle="tab">Environment</a></li>
+                    <li><a href="#btn_general" data-toggle="tab">General</a></li>
+                </ul>
+            </div>
+            <div class="main_cells">
+                <div class="tab-content">
+                    <div class="tab-pane active" id="btn_medical">
+                        <div class="btn-up">
+                            <label class="btn">Entity detector: </label>
+                            <div class="btn-group" data-toggle="buttons">
+                                <label id="demo_disease" class="btn btn-info demo_edl disease" data-toggle="tooltip" data-html="true" title="{{ stat.disease }}">
+                                    <input type="checkbox" autocomplete="off"><i class="fa fa-medkit" aria-hidden="true"></i>
+                                    <span class="hidden-xs"> Disease</span></label>
+                                <label id="demo_chemical" class="btn btn-info demo_edl chemical" data-toggle="tooltip" data-html="true" title="{{ stat.chemical }}">
+                                    <input type="checkbox" autocomplete="off"><i class="fa fa-eraser" aria-hidden="true"></i>
+                                    <span class="hidden-xs"> Chemical</span></label>
+                                <label id="demo_anatomy" class="btn btn-info demo_edl anatomy" data-toggle="tooltip" data-html="true" title="{{ stat.anatomy }}">
+                                    <input type="checkbox" autocomplete="off"><i class="fa fa-scissors" aria-hidden="true"></i>
+                                    <span class="hidden-xs"> Anatomy</span></label>
+                                <label id="demo_psychology" class="btn btn-info demo_edl psychology" data-html="true" data-toggle="tooltip" title="{{ stat.psychology }}">
+                                    <input type="checkbox" autocomplete="off"><i class="fa fa-heartbeat" aria-hidden="true"></i>
+                                    <span class="hidden-xs"> Psychology</span></label>
+                            </div>
+                        </div>
+                        <div class="btn-down">
+                            <label class="btn">Relation detector: </label>
+                            <div class="btn-group" data-toggle="buttons">
+                                <label id="demo_sf" class="btn btn-danger" data-toggle="tooltip" data-html="true" title="Relation Discovery">
+                                    <input type="checkbox" autocomplete="off"><i class="fa fa-stack-overflow" aria-hidden="true"></i>
+                                    <span class="hidden-xs"> Drug-induced diseases</span>
+                                </label>
+                                <label class="btn btn-danger" data-toggle="tooltip" data-html="true" title="Relation Discovery">
+                                    <input type="checkbox" autocomplete="off"><i class="fa fa-hourglass-start" aria-hidden="true"></i>
+                                    <span class="hidden-xs"> Disease symptoms</span>
+                                </label>
+                            </div>
+                        </div>
+                        <!--fake-->
+                    </div>
+                    <div class="tab-pane" id="btn_cs">
+                        <div class="btn-up">
+                            <label class="btn">Entity detector: </label>
+                            <div class="btn-group" data-toggle="buttons">
+                                <label id="demo_algo" class="btn btn-info demo_edl" data-toggle="tooltip" data-html="true" title="New: 0, Total: 0">
+                                    <input type="checkbox" autocomplete="off"><i class="fa fa-bomb" aria-hidden="true"></i>
+                                    <span class="hidden-xs"> Algorithm</span></label>
+                                <label id="demo_ds" class="btn btn-info demo_edl" data-toggle="tooltip" data-html="true" title="New: 0, Total: 0">
+                                    <input type="checkbox" autocomplete="off"><i class="fa fa-bomb" aria-hidden="true"></i>
+                                    <span class="hidden-xs"> Programming Language</span></label>
+                            </div>
+                        </div>
+                        <div class="btn-down">
+                            <label class="btn">Relation detector: </label>
+                            <div class="btn-group" data-toggle="buttons">
+                                <label class="btn btn-danger" data-toggle="tooltip" data-html="true" title="Relation Discovery">
+                                    <input type="checkbox" autocomplete="off"><i class="fa fa-stack-overflow" aria-hidden="true"></i>
+                                    <span class="hidden-xs"> Relation Discovery</span>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="btn_env">
+                        <div class="btn-up">
+                            <label class="btn">Entity detector: </label>
+                            <div class="btn-group" data-toggle="buttons">
+                                <label id="demo_ocean" class="btn btn-info demo_edl" data-toggle="tooltip" data-html="true" title="New: 0, Total: 0">
+                                    <input type="checkbox" autocomplete="off"><i class="fa fa-bomb" aria-hidden="true"></i>
+                                    <span class="hidden-xs"> Ocean</span></label>
+                                <label id="demo_air" class="btn btn-info demo_edl" data-toggle="tooltip" data-html="true" title="New: 0, Total: 0">
+                                    <input type="checkbox" autocomplete="off"><i class="fa fa-bomb" aria-hidden="true"></i>
+                                    <span class="hidden-xs"> Air quality</span></label>
+                            </div>
+                        </div>
+                        <div class="btn-down">
+                            <label class="btn">Relation detector: </label>
+                            <div class="btn-group" data-toggle="buttons">
+                                <label class="btn btn-danger" data-toggle="tooltip" data-html="true" title="Relation Discovery">
+                                    <input type="checkbox" autocomplete="off"><i class="fa fa-stack-overflow" aria-hidden="true"></i>
+                                    <span class="hidden-xs"> Relation Discovery</span>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="btn_general">
+                        <div class="btn-up">
+                            <label class="btn">Entity detector: </label>
+                            <div class="btn-group" data-toggle="buttons">
+                                <label id="demo_per" class="btn btn-info demo_edl per" data-toggle="tooltip" data-html="true" title="{{ stat.per }}">
+                                    <input type="checkbox" autocomplete="off"><i class="fa fa-user" aria-hidden="true"></i>
+                                    <span class="hidden-xs"> Person</span></label>
+                                <label id="demo_org" class="btn btn-info demo_edl org" data-toggle="tooltip" data-html="true" title="{{ stat.org }}">
+                                    <input type="checkbox" autocomplete="off"><i class="fa fa-sitemap" aria-hidden="true"></i>
+                                    <span class="hidden-xs"> Org</span></label>
+                            </div>
+                        </div>
+                        <div class="btn-down">
+                            <label class="btn">Relation detector: </label>
+                            <div class="btn-group" data-toggle="buttons">
+                                <label class="btn btn-danger" data-toggle="tooltip" data-html="true" title="Relation Discovery">
+                                    <input type="checkbox" autocomplete="off"><i class="fa fa-stack-overflow" aria-hidden="true"></i>
+                                    <span class="hidden-xs"> Relation Discovery</span>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="main_div">
+            <!--    <span class="sel_tab_span" onclick="showMainTab(0)"><b>实体检测</b></span>
+        }
+    <span class="tab_span" onclick="showMainTab(1)"><b>概念统计</b></span> -->
+            <div class="link_result_div">
+                <div id="edl_result_div" class="link_result_div_page">
+                    {{ demo_html|safe|escape|linebreaksbr }}
+                </div>
+                <div id="sf_result_div" class="link_result_div_page">
+                    {{ demo_sf_html|safe|escape|linebreaksbr }}
+                </div>
+                <div class="page_div">
+                    <div class="pagination">
+                        <a href="#" class="first" data-action="first">&laquo;</a>
+                        <a href="#" class="previous" data-action="previous">&lsaquo;</a>
+                        <input type="text" readonly="readonly" data-max-page="{{ maxpages }}" />
+                        <a href="#" class="next" data-action="next">&rsaquo;</a>
+                        <a href="#" class="last" data-action="last">&raquo;</a>
+                    </div>
+                </div>
+            </div>
+            <div id="chart"></div>
+        </div>
+        <div id="side_div">
+            <div id="info_entity_head"></div>
+            <div id="edl_infobox" class="infobox">
+                <div id="info_empty" class="infohead">
+                    <ul class="nav nav-tabs">
+                        <li class="active">
+                            <a style="border-left: 0 !important;" href="#info_desc" data-toggle="tab">Description</a>
+                        </li>
+                        <li><a href="#info_syno" data-toggle="tab">Synonyms</a>
+                        </li>
+                        <li><a href="#info_tree" data-toggle="tab">Hyponymy</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="infobody">
+                    <div class="shape">
+                        <div class="shape-text">
+                            wiki
+                        </div>
+                    </div>
+                    <div class="tab-content">
+                        <div class="tab-pane active" id="info_desc">
+                            <p>Entity descriptions &amp; links</p>
+                        </div>
+                        <div class="tab-pane" id="info_syno">
+                            <div class="panel-group showcase" role="tablist" aria-multiselectable="true">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingSyno1">
+                                        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#meshSyno" aria-expanded="false" aria-controls="meshSyno">
+          MeSH
+        </a>
+      </h4>
+                                    </div>
+                                    <div id="meshSyno" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingSyno1">
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingSyno2">
+                                        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#chebiSyno" aria-expanded="false" aria-controls="chebiSyno">
+          ChEBI
+        </a>
+      </h4>
+                                    </div>
+                                    <div id="chebiSyno" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingSyno2">
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingSyno4">
+                                        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#customSyno" aria-expanded="false" aria-controls="customSyno">
+          Custom
+        </a>
+      </h4>
+                                    </div>
+                                    <div id="customSyno" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingSyno4">
+                                        <input type="hidden" id="synoEdit" placeholder="Click to edit." value/>
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingSyno3">
+                                        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#wikiSyno" aria-expanded="false" aria-controls="wikiSyno">
+          Related Wikipedia Links
+        </a>
+      </h4>
+                                    </div>
+                                    <div id="wikiSyno" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingSyno3">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="info_tree">
+                            <div class="panel-group showcase" role="tablist" aria-multiselectable="true">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingTree1">
+                                        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#meshTree" aria-expanded="false" aria-controls="meshTree">
+          MeSH
+        </a>
+      </h4>
+                                    </div>
+                                    <div id="meshTree" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTree1">
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingTree2">
+                                        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#wikiTree" aria-expanded="false" aria-controls="wikiTree">
+          Wikipedia
+        </a>
+      </h4>
+                                    </div>
+                                    <div id="wikiTree" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTree2">
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingTree4">
+                                        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#customTree" aria-expanded="false" aria-controls="customTree">
+          Custom
+        </a>
+      </h4>
+                                    </div>
+                                    <div id="customTree" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTree4">
+                                        <input type="hidden" id="treeEdit" placeholder="Click to edit." value/>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="info_link">
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div id="edl_new_edit">
+                    <button id="adde" class="btn btn-success" type="button" name value>Add</button>
+                    <button id="removee" class="btn btn-danger" type="button" name value>Discard</button>
+                </div>
+            </div>
+            <div id="sf_infobox" class="infobox">
+                <div class="infohead">
+                    <ul class="nav nav-tabs">
+                        <li class="active">
+                            <a style="border-left: 0 !important;" href="#sf_info_relation" data-toggle="tab">Relation Discovery</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="infobody">
+                    <div class="shape">
+                        <div class="shape-text">
+                            wiki
+                        </div>
+                    </div>
+                    <div class="tab-content">
+                        <div class="tab-pane active" id="sf_info_relation">
+                            <!--                             <table id="user" class="table table-bordered table-striped" style="clear: both">
+                                <tbody>
+                                    <tr>
+                                        <td width="35%">Subject(drug)</td>
+                                        <td width="65%"><a href="#" id="tags" data-type="select2" data-pk="1" data-title="Enter tags" class="editable editable-click" data-original-title="" title="" style="background-color: rgba(0, 0, 0, 0);">hello, world</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Relation(drug-induced)</td>
+                                        <td>
+                                            <input id="eee" type="text" class="form-control">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Object(disease)</td>
+                                        <td>
+                                            hello, world
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table> -->
+                            <div class="panel-group showcase" role="tablist" aria-multiselectable="true">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingSubj">
+                                        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSubj" aria-expanded="false" aria-controls="collapseSubj">
+          Drug
+        </a>
+      </h4>
+                                    </div>
+                                    <div id="collapseSubj" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingSubj">
+                                        <ul class="list-group">
+                                            <li id="info_subj" class="list-group-item">N/A</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <!--                                 <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingRel">
+                                        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseRel" aria-expanded="false" aria-controls="collapseRel">
+          Relation
+        </a>
+      </h4>
+                                    </div>
+                                    <div id="collapseRel" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingRel">
+                                        <input type="hidden" id="relSelect" value="Drug-induced diseases" />
+                                    </div>
+                                </div> -->
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingObj">
+                                        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseObj" aria-expanded="false" aria-controls="collapseObj">
+          Disease
+        </a>
+      </h4>
+                                    </div>
+                                    <div id="collapseObj" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingObj">
+                                        <ul class="list-group">
+                                            <li id="info_obj" class="list-group-item">N/A</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="sf_new_edit" class="new_edit">
+                    <button id="addf" class="btn btn-success" type="button" name value>Add</button>
+                    <button id="removef" class="btn btn-danger" type="button" name value>Discard</button>
+                </div>
+            </div>
+            <!--             <div class="panel-group showcase" role="tablist" aria-multiselectable="true">
+                <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingOne">
+                        <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          Disease
+        </a>
+      </h4>
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                        <div class="panel-body">
+                            <div>
+                                <a href="#" class="btn btn-success" role="button"><b>abc</b> <small>(12)</small></a>
+                                <a href="#" class="btn btn-success" role="button"><b>dea</b> <small>(2)</small></a>
+                                <a href="#" class="btn btn-success" role="button"><b>mmd</b> <small>(45)</small></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingTwo">
+                        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Drug
+        </a>
+      </h4>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                        <div class="panel-body">
+                            hello, world
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingThree">
+                        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        Person
+        </a>
+      </h4>
+                    </div>
+                    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                        <div class="panel-body">
+                            hello, world
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingThree">
+                        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+        Organization
+        </a>
+      </h4>
+                    </div>
+                    <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+                        <div class="panel-body">
+                            hello, world
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+        </div>
+        <div id="mouse" style="display: none;"></div>
+        <ul id="contextMenu" class="dropdown-menu" role="menu" style="display:none">
+            <li><a class="disease" href="#"><i class="fa fa-medkit" aria-hidden="true"></i><span class="hidden-xs"> Disease</span></a></li>
+            <li><a class="chemical" href="#"><i class="fa fa-eraser" aria-hidden="true"></i><span class="hidden-xs"> Chemical</span></a></li>
+            <li><a class="anatomy" href="#"><i class="fa fa-scissors" aria-hidden="true"></i><span class="hidden-xs"> Anatomy</span></a></li>
+            <li><a class="psychology" href="#"><i class="fa fa-heartbeat" aria-hidden="true"></i><span class="hidden-xs"> Psychology</span></a></li>
+        </ul>
+    </div>
+    <footer>Copyright © 2016 浙江大学</footer>
+    <script src="{% static 'js/jquery.min.js' %}"></script>
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'js/bootstrap-editable.min.js' %}"></script>
+    <script src="{% static 'js/bootstrap-treeview.min.js' %}"></script>
+    <script src="{% static 'js/jquery.jqpagination.min.js' %}"></script>
+    <script src="{% static 'js/d3.v3.min.js' %}"></script>
+    <script src="{% static 'js/select2.js' %}"></script>
+    <script src="{% static 'js/application.js' %}"></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+        $.fn.editable.defaults.mode = 'inline';
+        $('label.btn').tooltip();
+        $('.demo_edl').on('change', dealEdlStateChange);
+        $('#demo_sf').on('change', dealSfStateChange);
+        $('.pagination').jqPagination({
+            page_string: '{current_page}/{max_page}',
+            // link_string: '/?page={page_number}',
+            paged: function(page) {
+                var doEdl = !$('#demo_sf').hasClass('active');
+                if (doEdl) {
+                    $('#edl_result_div').load('?page=' + page + '&op=' + 'edl', function(e) {
+                        $('.demo_edl').each(function(e) {
+                            if ($(this).hasClass('active')) {
+                                demoEdlInit();
+                                highlight(this.id);
+                            }
+                        });
+                    });
+                } else {
+                    $('#sf_result_div').load('?page=' + page + '&op=' + 'sf', function(e) {
+                        demoSfInit();
+                    });
+                }
+            }
+        });
+        $('#relSelect').select2({
+            tags: ["Drug-induced diseases"],
+            tokenSeparators: [","]
+        });
+        $('#synoEdit').select2({
+            tags: [],
+            tokenSeparators: [","]
+        });
+        $('#treeEdit').select2({
+            tags: [],
+            tokenSeparators: [","]
+        });
+        $('#adde').on('click', function(e) {
+            var target = this.value;
+            var demo_class = '#demo_' + this.name;
+            var demo_stats = $(demo_class).attr('data-original-title');
+            console.log(demo_stats);
+            var re = /New: (\d+)<br>Total: (\d+) in (\d+)/;
+            var stats = re.exec(demo_stats);
+            var newe = parseInt(stats[1]);
+            var total = parseInt(stats[2]);
+            var all = parseInt(stats[3]);
+
+            $('.marked_span.newe').each(function(e) {
+                if ($(this).text() == target) {
+                    $(this).find('sup').text(total + 1);
+                    $(this).removeClass('newe');
+                }
+            });
+            var tip_stats = 'New: ' + (newe - 1) + '<br>Total: ' + (total + 1) + ' in ' + all;
+            $(demo_class).attr('data-original-title', tip_stats)
+                .tooltip('fixTitle')
+                .tooltip('show');
+        });
+        $('#removee').on('click', function(e) {
+            var target = this.value;
+            var demo_class = '#demo_' + this.name;
+            var demo_stats = $(demo_class).attr('data-original-title');
+            console.log(demo_stats);
+            var re = /New: (\d+)<br>Total: (\d+) in (\d+)/;
+            var stats = re.exec(demo_stats);
+            var newe = parseInt(stats[1]);
+            var total = parseInt(stats[2]);
+            var all = parseInt(stats[3]);
+
+            $('.marked_span.newe').each(function(e) {
+                if ($(this).text() == target) {
+                    $(this).removeClass('highlight');
+                    // $(this).css('border-bottom', 'none');
+                    // $(this).css('color', '#333');
+                    // $(this).css('font-weight', 'normarl');
+                }
+            });
+            var tip_stats = 'New: ' + (newe - 1) + '<br>Total: ' + (total - 1) + ' in ' + all;
+            $(demo_class).attr('data-original-title', tip_stats)
+                .tooltip('fixTitle')
+                .tooltip('show');
+        });
+        $('#addf').on('click', function(e) {
+            if (this.value) {
+                var hid = this.value.split('_')[2];
+                console.log(hid);
+            }
+        });
+        $('#removef').on('click', function(e) {
+            if (this.value) {
+                var hid = this.value.split('_')[2];
+                var sent_id = '#sf_sent_' + hid;
+                var subj_id = '#subj_' + hid;
+                var obj_id = '#obj_' + hid;
+                $(sent_id).css('background-color', '#f7f7f9');
+                $(sent_id).css('font-weight', 'normal');
+                $(sent_id).html($(sent_id).text());
+            }
+        });
+        $('.main_nav_center a').on('show.bs.tab', function(e) {
+            var tab = $(this).attr('href') + ' .btn-up>.btn-group';
+            console.log($(tab).children());
+            var context = '';
+            var labels = $(tab).children();
+            for (var i = 0; i < labels.length; ++i) {
+                var type = $(labels[i]).text().trim().toLowerCase();
+                if (type == 'person')
+                    type = 'per';
+                var icon = $(labels[i]).find('i').prop('outerHTML');
+                var span = $(labels[i]).find('span').prop('outerHTML');
+                var eli = '<li><a class="' + type + '" href="#">' + icon + span + '</a></li>';
+                context += eli;
+                $('#contextMenu').html(context);
+            }
+        });
+    });
+    </script>
+    <script type="text/javascript">
+    (function($, window) {
+
+        $.fn.contextMenu = function(settings) {
+
+            return this.each(function() {
+
+                // Open context menu
+                $(this).on("contextmenu", function(e) {
+                    // return native menu if pressing control
+                    if (e.ctrlKey) return;
+
+                    //open menu
+                    var $menu = $(settings.menuSelector)
+                        .data("invokedOn", $(e.target))
+                        .show()
+                        .css({
+                            position: "absolute",
+                            left: getMenuPosition(e.clientX, 'width', 'scrollLeft'),
+                            top: getMenuPosition(e.clientY, 'height', 'scrollTop')
+                        })
+                        .off('click')
+                        .on('click', 'a', function(e) {
+                            $menu.hide();
+
+                            var $invokedOn = $menu.data("invokedOn");
+                            var $selectedMenu = $(e.target);
+
+                            settings.menuSelected.call(this, $invokedOn, $selectedMenu);
+                        });
+
+                    return false;
+                });
+
+                //make sure menu closes on any click
+                $('body').click(function() {
+                    $(settings.menuSelector).hide();
+                });
+            });
+
+            function getMenuPosition(mouse, direction, scrollDir) {
+                var win = $(window)[direction](),
+                    scroll = $(window)[scrollDir](),
+                    menu = $(settings.menuSelector)[direction](),
+                    position = mouse + scroll;
+
+                // opening menu would pass the side of the page
+                if (mouse + menu > win && menu < mouse)
+                    position -= menu;
+
+                return position;
+            }
+
+        };
+    })(jQuery, window);
+
+    $(".link_result_div_page").contextMenu({
+        menuSelector: "#contextMenu",
+        menuSelected: function(invokedOn, selectedMenu) {
+            var txt = document.getElementById('mouse').innerHTML;
+            var msg = "You selected the menu item '" + selectedMenu.text() +
+                "' on the value '" + txt + "'";
+        }
+    });
+    </script>
+</body>
+
+</html>

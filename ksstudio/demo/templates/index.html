@@ -1,0 +1,124 @@
+{% load staticfiles %}
+<html>
+
+<head>
+    <title>知识加工与服务云平台</title>
+    <meta charset="UTF-8">
+    <!-- Bootstrap -->
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/font-awesome.min.css' %}" rel="stylesheet" type="text/css">
+    <link href="{% static 'css/fileinput.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/index.css' %}" rel="stylesheet" type="text/css">
+    <style type="text/css">
+    .file_upload_div {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        border: 2px solid #003B62;
+        width: 600px;
+        padding: 3px;
+        background-color: #f4f4f4;
+        display: block;
+    }
+    
+    h2 {
+        margin-top: 30px;
+        text-align: center;
+        color: #337ab7;
+        font-family: '微软雅黑 Bold', '微软雅黑';
+    }
+    
+    .foo {
+        background-color: #fff;
+        padding-top: 80px;
+    }
+    
+    .head_div {
+        padding-bottom: 15px;
+        border-bottom: 2px solid #e5e5e5;
+    }
+    </style>
+    <script>
+    window.onload = function() {
+        $('#file_upload').fileinput('clear');
+    };
+    window.onunload = function() {};
+    </script>
+</head>
+
+<body>
+    <div id="main">
+        <div class="title">
+            <h1 onclick="javascript:window.location.href='/'">KS-Studio</h1>
+            <div class="profile"><span>知识加工与服务云平台</span></div>
+        </div>
+        <div class="preview">
+            <div class="getstarted">>&nbsp;&nbsp;Getting Started&nbsp;&nbsp;
+                <</div>
+            </div>
+            <div class="subtitle">
+                知识加工与服务
+                <i style="float:right;display:none;" class="fa fa-times" aria-hidden="true"></i>
+            </div>
+            <ul class="data" {% if err %}style="display:none;" {% endif %}>
+                <li>
+                    <img src="{% static "img/lang.png" %}">
+                    <button name="lang" onclick="window.location.href = '/lp'">Language</button>
+                </li>
+                <li>
+                    <img src="{% static "img/vision.png" %}">
+                    <button name="vision" onclick="window.location.href = 'http://10.214.129.99:5000/';">
+                        <!-- <i class="fa fa-ban fa-fw" aria-hidden="true"></i> -->Vision</button>
+                </li>
+                <li>
+                    <img src="{% static "img/media.png" %}">
+                    <button name="vision" onclick="window.location.href = 'http://10.214.155.238:8000/';">
+                        <!-- <i class="fa fa-ban fa-fw" aria-hidden="true"></i>  -->Cross-media</button>
+                </li>
+                <li>
+                    <img src="{% static "img/sdk.png" %}">
+                    <button name="vision" onclick="window.location.href = '/api';">
+                        <!-- <i class="fa fa-ban fa-fw" aria-hidden="true"></i>  -->API</button>
+                </li>
+            </ul>
+            <!--             <div class="alert alert-danger alert-dismissible error" role="alert" {% if not err %}style="display:none;"{% endif %}>
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <strong>Error!</strong> {{ err }}
+            </div> -->
+            <!--             <ul class="upload" {% if not err %}style="display:none;"{% endif %}>
+                <li>
+                    <form action="process" method="post" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        <label for="file">上传(支持.pdf, .docx, .txt):</label>
+                        <br>
+                        <input type="file" name="file_to_label" id="file_upload" class="file" data-show-preview="false" />
+                        <input type="hidden" name="type" value />
+                    </form>
+                </li>
+            </ul> -->
+        </div>
+    </div>
+    <footer>Copyright © 2016 浙江大学</footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="{% static 'js/jquery.min.js' %}"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'js/fileinput.min.js' %}"></script>
+    <script type="text/javascript">
+    function showStuff(btn) {
+        var type = btn.getAttribute('name');
+        document.getElementsByName('type')[0].setAttribute('value', type)
+        document.getElementsByClassName('data')[0].style.display = 'none';
+        document.getElementsByClassName('upload')[0].style.display = 'block';
+        var clx = document.getElementsByClassName('fa-times')[0];
+        clx.style.display = 'inline-block';
+        clx.onclick = function() {
+            document.getElementsByClassName('data')[0].style.display = 'block';
+            document.getElementsByClassName('upload')[0].style.display = 'none';
+            this.style.display = 'none';
+        };
+    }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,67 @@
+{% load staticfiles %}
+<html>
+
+<head>
+    <title>知识加工与服务云平台</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <!-- Bootstrap core CSS -->
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/font-awesome.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/fileinput.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/index.css' %}" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <nav class="navbar navbar-default navbar-static-top">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="/" class="navbar-brand">KS-Studio</a>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Language</a></li>
+                    <li><a href="http://10.214.129.99:5000/">Vision</a></li>
+                    <li><a href="http://10.214.155.238:8000/">Cross-media</a></li>
+                </ul>
+            </div>
+            <!--/.nav-collapse -->
+        </div>
+    </nav>
+    <div class="container">
+        <div class="wrapper">
+            <div class="demo-img"><img src="{% static "img/intro.png" %}"></div>
+            <div class="alert alert-danger alert-dismissible error" role="alert" {% if not err %}style="display:none;" {% endif %}>
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <strong>Error!</strong> {{ err }}
+            </div>
+            <ul class="upload">
+                <li>
+                    <form action="process" method="post" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        <label for="file">上传文件(支持.pdf, .docx, .txt):</label>
+                        <br>
+                        <input type="file" name="file_to_label" id="file_upload" class="file" data-show-preview="false" />
+                        <input type="hidden" name="type" value />
+                    </form>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <footer>Copyright © 2016 浙江大学</footer>
+    <script src="{% static 'js/jquery.min.js' %}"></script>
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'js/fileinput.min.js' %}"></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+        return false;
+    });
+    </script>
+</body>
+
+</html>

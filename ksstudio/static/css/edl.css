@@ -1,0 +1,630 @@
+body {
+    border-top: 5px solid #264462;
+}
+
+@media screen and (min-width: 1000px) {
+    #main_div {
+        margin-left: auto;
+        margin-right: auto;
+        display: inline-block;
+        vertical-align: top;
+        width: 70%;
+    }
+    #side_div {
+        position: relative;
+        margin-left: 5px;
+        display: inline-block;
+        vertical-align: top;
+        width: 29%;
+        overflow: auto;
+    }
+}
+
+@media screen and (max-width: 999px) {
+    #main_div {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #side_div {
+        margin-left: auto;
+        margin-right: auto;
+        overflow: auto;
+    }
+}
+
+#main_tab {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    /*    padding-bottom: 14px;*/
+    border-bottom: 2px solid #337ab7;
+    font-size: 115%;
+}
+
+
+/*#main_tab span {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: '微软雅黑 Bold', '微软雅黑';
+}*/
+
+#main_tab span:hover {
+    cursor: pointer;
+}
+
+#main_tab .sel_tab_span {
+    padding-bottom: 12px;
+    border-bottom: 5px solid #337ab7;
+}
+
+
+/*.main_nav_center {
+    text-align: center;
+}*/
+
+.main_nav_center ul.nav {
+    display: inline-block;
+}
+
+.main_nav_center ul.nav li {
+    display: inline a;
+    display-float: left;
+}
+
+.main_cells {
+    padding: 10px 0;
+}
+
+.main_cells .btn-down {
+    margin-top: 10px;
+}
+
+.disease i.fa {
+    color: #DE3F3C;
+}
+
+.chemical i.fa {
+    color: #3D34BF;
+}
+
+.per i.fa {
+    color: #51b956;
+}
+
+.org i.fa {
+    color: #6a8dca;
+}
+
+.psychology i.fa {
+    color: #BD7534;
+}
+
+.anatomy i.fa {
+    color: #292b37;
+}
+
+.marked_span.newe.highlight {
+    border-bottom: 1px dashed;
+}
+
+.et_disease.highlight {
+    color: #DE3F3C;
+    font-weight: bold;
+}
+
+.et_disease.highlight:hover,
+.et_disease.highlight.hovered {
+    cursor: pointer;
+    color: #F66;
+}
+
+.et_chemical.highlight {
+    color: #3D34BF;
+    font-weight: bold;
+}
+
+.et_chemical.highlight:hover,
+.et_chemical.highlight.hovered {
+    cursor: pointer;
+    color: #8D34BF;
+}
+
+.et_per.highlight {
+    color: #51b956;
+    font-weight: bold;
+}
+
+.et_per.highlight:hover,
+.et_per.highlight.hovered {
+    cursor: pointer;
+    color: #91b956;
+}
+
+.et_org.highlight {
+    color: #6a8dca;
+    font-weight: bold;
+}
+
+.et_org.highlight:hover,
+.et_org.highlight.hovered {
+    cursor: pointer;
+    color: #ba8dca;
+}
+
+.et_psychology.highlight {
+    color: #BD7534;
+    font-weight: bold;
+}
+
+.et_psychology.highlight:hover,
+.et_psychology.highlight.hovered {
+    cursor: pointer;
+    color: #EA984E;
+}
+
+.et_anatomy.highlight {
+    color: #292b37;
+    font-weight: bold;
+}
+
+.et_anatomy.highlight:hover,
+.et_anatomy.highlight.hovered {
+    cursor: pointer;
+    color: #575965;
+}
+
+.infobox {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-color: #ddd;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .05)
+}
+
+.infobox .infohead {
+    padding: 0px;
+}
+
+.infobox .infobody {
+    padding: 0em;
+    overflow: auto;
+}
+
+.infohead > .nav>li>a {
+    padding: 10px 8px;
+}
+
+.infohead > .nav-tabs > li > a {
+    border-top: 0 !important;
+    border-radius: 4px 4px 0 0;
+}
+
+.infobody .tab-content {
+    /*    color: white;
+    background-color: #428bca;*/
+    padding: 20px 15px 10px;
+}
+
+.infobody .panel-heading {
+    padding: 8px 15px;
+}
+
+#info_desc hr {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+#info_entity_head {
+    padding: 5px;
+    display: none;
+    border: 1px solid transparent;
+    border-color: #ddd;
+    border-bottom: 0px;
+    border-radius: 4px 4px 0 0;
+    color: #ececec;
+}
+
+#edl_new_edit {
+    text-align: right;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    display: none;
+}
+
+#sf_new_edit {
+    text-align: right;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+
+#sf_infobox {
+    display: none;
+}
+
+#sf_info_relation ul>li>span {
+    color: #D9534F;
+}
+
+.select2-container {
+    width: 100%;
+}
+
+.select2-container-multi .select2-choices {
+    border: none;
+    border-top: 1px solid #ddd;
+    border-radius: 0 0 4px 4px;
+}
+
+
+/*.select2-container-multi .select2-choices .select2-search-choice {
+    color: #ddd;
+    background-color: #6a8dca;
+}*/
+
+.treeview ul>li>a {
+    text-decoration: none;
+}
+
+.panel .list-group a {
+    color: #337ab7;
+}
+
+
+/*.marked_span {
+    border-bottom: 1px dashed #000;
+    background-color: #337ab7;
+    color: #333399;
+}*/
+
+.shape {
+    border-style: solid;
+    border-width: 0 32px 32px 0;
+    float: right;
+    height: 0px;
+    width: 0px;
+    display: none;
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+
+.shape-text {
+    color: #fff;
+    font-size: 9px;
+    font-weight: bold;
+    position: relative;
+    right: -16px;
+    top: -1px;
+    white-space: nowrap;
+    -ms-transform: rotate(30deg);
+    /* IE 9 */
+    -o-transform: rotate(360deg);
+    /* Opera 10.5 */
+    -webkit-transform: rotate(46deg);
+    /* Safari and Chrome */
+    transform: rotate(46deg);
+}
+
+.shape {
+    border-color: rgba(255, 255, 255, 0) #292b37 rgba(255, 255, 255, 0) rgba(255, 255, 255, 0);
+}
+
+.bub_div {
+    min-width: 37em;
+    height: auto;
+    display: none;
+    position: absolute;
+}
+
+.desc_tab {
+    max-width: 35em;
+    height: auto;
+}
+
+.list-group-item {
+    padding: 3px 15px;
+}
+
+.treeview .list-group-item {
+    padding: 3px 5px;
+}
+
+.link_result_div {
+    margin-bottom: 14px;
+    position: relative;
+    background-color: #f7f7f9;
+    border: 1px solid #e1e1e8;
+    border-radius: 4px;
+    font-size: 100%;
+}
+
+.link_result_div_page {
+    height: 670px;
+    padding: 9px 14px;
+    margin-bottom: 10px;
+    position: relative;
+    overflow: auto;
+    font-size: 100%;
+}
+
+#sf_result_div {
+    display: none;
+}
+
+.page_div {
+    /*    width: 50%;*/
+    left: 50%;
+    margin: 10 auto;
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+}
+
+.page_div .pagination {
+    margin: 0 auto;
+    position: relative;
+    left: -50%;
+}
+
+.page_div .pagination input {
+    width: 80px;
+}
+
+ul.tabs_ul {
+    list-style-type: none;
+    margin: 30px 0 0 0;
+    padding: 0 0 0.3em 0;
+}
+
+ul.tabs_ul li {
+    display: inline;
+}
+
+ul.tabs_ul li a {
+    color: #42454a;
+    background-color: #dedbde;
+    border: 1px solid #c9c3ba;
+    border-bottom: none;
+    padding: 0.3em;
+    text-decoration: none;
+}
+
+ul.tabs_ul li a:hover {
+    background-color: #f1f0ee;
+}
+
+ul.tabs_ul li a.selected {
+    color: #000;
+    background-color: #f1f0ee;
+    font-weight: bold;
+    padding: 0.7em 0.3em 0.38em 0.3em;
+}
+
+ul.tabs_ul li span {
+    color: #42454a;
+    background-color: #dedbde;
+    border: 1px solid #c9c3ba;
+    border-bottom: none;
+    padding: 0.3em;
+    margin-left: 0.2em;
+    text-decoration: none;
+}
+
+ul.tabs_ul li span:hover {
+    background-color: #f1f0ee;
+    cursor: pointer;
+}
+
+ul.tabs_ul li span.selected {
+    color: #000;
+    background-color: #f1f0ee;
+    font-weight: bold;
+    padding: 0.3em 0.3em 0.38em 0.3em;
+}
+
+.bub_div {
+    background-color: #fff;
+    padding: 7px;
+    border: 1px solid #e1e1e8;
+    display: none;
+    border-radius: 4px;
+    box-shadow: 0 0 7px #999;
+    z-index: 1000;
+}
+
+
+/*.nav-pills {
+    margin-bottom: 10px;
+}
+
+.nav-pills span.selected,
+.nav-pills span.selected:focus,
+.nav-pills span.selected:hover {
+    color: #fff;
+    background-color: #337ab7;
+}
+
+.nav-pills span:hover {
+    cursor: pointer;
+}
+
+.nav-pills li span {
+    color: #337ab7;
+    border-radius: 4px;
+}*/
+
+
+/*.navbar-default .navbar-nav>li.ks-logo>a {
+    font-weight: bold;
+    font-size: 16px;
+    color: #6a8dca;
+}
+
+.navbar-default .navbar-nav>li.ks-logo>a:focus,
+.navbar-default .navbar-nav>li.ks-logo>a:hover {
+    color: #6a8dca;
+}*/
+
+
+/*.navbar-default {
+    background-color: #292B37;
+}*/
+
+.nav li span:focus,
+.nav li span:hover {
+    background-color: #eee;
+}
+
+.nav li span {
+    position: relative;
+    display: block;
+    padding: 7px 11px;
+}
+
+
+/*.navbar-default .navbar-nav>li>a {
+    color: #0777D8;
+}*/
+
+
+/*.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+    color: #e7e7e7;
+}*/
+
+#result {
+    overflow: auto;
+}
+
+#return_div {
+    float: right;
+    padding-right: 15px;
+    width: 100px;
+    text-align: right;
+}
+
+#return_btn {
+    margin-top: 20px;
+}
+
+
+/*div.tabContentt {
+    border: 1px solid #c9c3ba;
+    padding: 0.5em;
+    background-color: #f1f0ee;
+    box-shadow: 0px 0px 7px #888888;
+}*/
+
+div.tabContent.hide {
+    display: none;
+}
+
+#chart {
+    display: none;
+}
+
+#chart div.bar {
+    height: 10px;
+    padding-bottom: 7px;
+    padding-right: 5px;
+    margin: 1px;
+    background-color: teal;
+    color: white;
+    text-align: right;
+}
+
+div.progress {
+    margin-bottom: 1px;
+}
+
+.bar_text {
+    margin-bottom: 5px;
+}
+
+.showcase .panel-heading a:hover,
+.showcase .panel-heading a:focus {
+    color: #DE3F3C;
+    text-decoration: blink;
+}
+
+.showcase .panel-heading a:after {
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";
+    float: right;
+    color: grey;
+}
+
+.showcase .panel-heading a.collapsed:after {
+    content: "\e080";
+}
+
+sup {
+    color: #00ABA4;
+}
+
+.marked_span.highlight sup {
+    display: inline;
+}
+
+.marked_span sup {
+    display: none;
+}
+
+.marked_sf_sent {
+    cursor: pointer;
+    background-color: #C6D0E2;
+    font-weight: bold;
+}
+
+.marked_sf_sent:nth-child(even) {
+    cursor: pointer;
+    background-color: #EA9B9B;
+    font-weight: bold;
+}
+
+.marked_sf_sent .marked_subj,
+.marked_sf_sent .marked_obj {
+    border-bottom: 1px dashed #00ABA4;
+}
+
+.marked_sf_sent.unhighlight {
+    cursor: pointer;
+    background-color: #f7f7f9;
+    font-weight: normal;
+}
+
+.marked_sf_sent.unhighlight:nth-child(even) {
+    cursor: pointer;
+    background-color: #f7f7f9;
+    font-weight: normal;
+}
+
+.marked_sf_sent.unhighlight .marked_subj,
+.marked_sf_sent.unhighlight .marked_obj {
+    border-bottom: none;
+}
+
+.tooltip-inner {
+    white-space: pre;
+    max-width: none;
+}
+
+#contextMenu {
+    min-width: 0;
+}
+
+footer {
+    position: relative;
+    right: 0;
+    left: 0;
+    margin-top: 100px;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: #292b37;
+    color: #fff;
+    text-align: center;
+}
